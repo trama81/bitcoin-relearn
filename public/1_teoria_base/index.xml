@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teoria Base :: My New Hugo Site</title>
+    <link>//localhost:1313/1_teoria_base/index.html</link>
+    <description>This is a new content 2.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/1_teoria_base/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conoscere Bitcoin</title>
+      <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/index.html</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/index.html</guid>
+      <description>This is a new content.</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>//localhost:1313/1_teoria_base/2_privacy/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 15:37:21 +0200</pubDate>
+      <guid>//localhost:1313/1_teoria_base/2_privacy/index.html</guid>
+      <description>This is a new content.</description>
+    </item>
+    <item>
+      <title>Sicurezza Informatica</title>
+      <link>//localhost:1313/1_teoria_base/3_sicurezza_informatica/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 15:37:21 +0200</pubDate>
+      <guid>//localhost:1313/1_teoria_base/3_sicurezza_informatica/index.html</guid>
+      <description>This is a new content.</description>
+    </item>
+    <item>
+      <title>Fiscalità</title>
+      <link>//localhost:1313/1_teoria_base/4_fiscalita/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 15:37:21 +0200</pubDate>
+      <guid>//localhost:1313/1_teoria_base/4_fiscalita/index.html</guid>
+      <description>This is a new content.</description>
+    </item>
+  </channel>
+</rss>
