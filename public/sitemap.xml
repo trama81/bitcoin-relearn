@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/1_teoria_base/2_privacy/1_avere_indirizzi_anonimi/index.html</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/index.html</loc>
-    <lastmod>2024-10-05T15:37:07+02:00</lastmod>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/1_fonti_fondamentali/index.html</loc>
-    <lastmod>2024-10-05T15:37:07+02:00</lastmod>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>//localhost:1313/1_teoria_base/index.html</loc>
-    <lastmod>2024-10-05T15:37:07+02:00</lastmod>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/2_crittografia/index.html</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>//localhost:1313/1_teoria_base/2_privacy/2_impedire_la_confisca/index.html</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>//localhost:1313/1_teoria_base/2_privacy/index.html</loc>
@@ -20,6 +32,14 @@
     <loc>//localhost:1313/2_teoria_avanzata/index.html</loc>
   </url>
   <url>
+    <loc>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/3_chiavi_e_indirizzi/index.html</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>//localhost:1313/1_teoria_base/2_privacy/3_conservazione_delle_chiavi/index.html</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>//localhost:1313/1_teoria_base/3_sicurezza_informatica/index.html</loc>
     <lastmod>2024-10-04T15:37:21+02:00</lastmod>
   </url>
@@ -27,12 +47,20 @@
     <loc>//localhost:1313/3_operativita/index.html</loc>
   </url>
   <url>
+    <loc>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_transazioni/index.html</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>//localhost:1313/1_teoria_base/4_fiscalita/index.html</loc>
     <lastmod>2024-10-04T15:37:21+02:00</lastmod>
   </url>
   <url>
+    <loc>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/5_wallet/index.html</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>//localhost:1313/index.html</loc>
-    <lastmod>2024-10-05T15:37:07+02:00</lastmod>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>//localhost:1313/categories/index.html</loc>

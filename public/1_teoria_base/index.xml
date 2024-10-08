@@ -16,24 +16,17 @@
       <description>This is a new content.</description>
     </item>
     <item>
-      <title>Privacy</title>
-      <link>//localhost:1313/1_teoria_base/2_privacy/index.html</link>
+      <title>Privacy e sicurezza</title>
+      <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/index.html</link>
       <pubDate>Fri, 04 Oct 2024 15:37:21 +0200</pubDate>
-      <guid>//localhost:1313/1_teoria_base/2_privacy/index.html</guid>
-      <description>This is a new content.</description>
-    </item>
-    <item>
-      <title>Sicurezza Informatica</title>
-      <link>//localhost:1313/1_teoria_base/3_sicurezza_informatica/index.html</link>
-      <pubDate>Fri, 04 Oct 2024 15:37:21 +0200</pubDate>
-      <guid>//localhost:1313/1_teoria_base/3_sicurezza_informatica/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/index.html</guid>
       <description>This is a new content.</description>
     </item>
     <item>
       <title>Fiscalità</title>
-      <link>//localhost:1313/1_teoria_base/4_fiscalita/index.html</link>
+      <link>//localhost:1313/1_teoria_base/3_fiscalita/index.html</link>
       <pubDate>Fri, 04 Oct 2024 15:37:21 +0200</pubDate>
-      <guid>//localhost:1313/1_teoria_base/4_fiscalita/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/3_fiscalita/index.html</guid>
       <description>This is a new content.</description>
     </item>
   </channel>

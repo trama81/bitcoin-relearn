@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proteggere il proprio PC :: My New Hugo Site</title>
+    <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</link>
+    <description>This is a new content.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

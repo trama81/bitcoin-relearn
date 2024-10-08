@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "5e33b71631a54381",
+    "type": "split",
+    "children": [
+      {
+        "id": "55e9b10beb0f36de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f73b297a2d404308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/1_fonti_fondamentali/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13c9c9a77117c387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/2_privacy_e_sicurezza/1_avere_indirizzi_anonimi/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2aadaf7e36157f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/2_privacy_e_sicurezza/2_impedire_la_confisca/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6470a570f0c13ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d23af011400595d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49cb919823130cf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db582944e496735a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/3_fiscalita/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96a0e78868ec7b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d58f31ad5fd93b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b31221564efad245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/1_teoria_base/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71717200512ce6e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "817577d375fa0cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b4c969678b8b19b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d213ae025d10f31d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2760baa1d10ba707",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32081b60cdda5f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5374b585bbef3fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e3603f5f2b105c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/1_teoria_base/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8681c46808c6dfef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/1_teoria_base/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61a87c113e0705f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09442fb6c1890e3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/1_teoria_base/_index.md"
+              }
+            }
+          },
+          {
+            "id": "08b95dd708b0de7d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b31221564efad245",
+  "lastOpenFiles": [
+    "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/5_wallet/_index.md",
+    "content/_index.md",
+    "content/3_operativita/1_esperimenti/_index.md",
+    "public/3_operativita/1_esperimenti/index.xml",
+    "public/3_operativita/1_esperimenti/index.html",
+    "content/3_operativita/_index.md",
+    "public/3_operativita/1_esperimenti/_index-1/index.html",
+    "public/3_operativita/1_esperimenti/_index-1",
+    "public/3_operativita/1_esperimenti",
+    "public/3_operativita/_index-1/index.html",
+    "public/3_operativita/_index-1",
+    "content/1_teoria_base/_index.md",
+    "content/3_operativita/1_esperimenti",
+    "content/1_teoria_base/3_fiscalita/_index.md",
+    "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
+    "public/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/index.xml",
+    "public/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index-1/index.html",
+    "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi.md",
+    "content/2_teoria_avanzata/1_entropia/_index.md",
+    "content/2_teoria_avanzata/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/5_proteggere_il_proprio_nodo/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/3_chiavi_e_indirizzi/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/1_fonti_fondamentali/_index.md",
+    "content/1_teoria_base/3_sicurezza_informatica/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/2_impedire_la_confisca/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/1_avere_indirizzi_anonimi/_index.md"
+  ]
+}
