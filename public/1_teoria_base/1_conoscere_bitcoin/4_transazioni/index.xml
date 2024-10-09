@@ -3,7 +3,7 @@
   <channel>
     <title>Transazioni :: My New Hugo Site</title>
     <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_transazioni/index.html</link>
-    <description>This is a new content.</description>
+    <description>Le transazioni bitcoin richiedono che una firma digitale (witness) valida sia inclusa nella blockchain, che può essere generata solo con una chiave privata (segreta); quindi, chiunque abbia una copia di quella chiave ha il controllo dei bitcoin.&#xA;C’è una relazione matematica tra la chiave pubblica e quella privata che permette alla chiave privata di essere usata per generare firme sui messaggi. Questa firma può essere validata attraverso la chiave pubblica senza rivelare la chiave privata.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
