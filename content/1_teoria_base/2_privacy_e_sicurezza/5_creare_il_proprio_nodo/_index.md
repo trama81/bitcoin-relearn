@@ -12,9 +12,14 @@ draft = true
 
 Description here
 
+# Hardware necessario
+
+
+---
+
 # Installazione StartOS
 
-## Scaricare StartOS
+### Scaricare StartOS
 
 1) Cliccare su questo [link](https://github.com/Start9Labs/start-os/releases/)
 
@@ -26,7 +31,7 @@ Description here
 
 	![targets](img/screen02.png)
 
-## Creare una ISO di StartOS per il boot
+### Creare una ISO di StartOS per il boot
 
 4) Scaricare [Balena Hetcher](https://etcher.balena.io/#download-etcher)
 
@@ -45,7 +50,7 @@ Description here
 13) Cliccare su "Flash!" e attendere il completamento
 
 
-## Installare StartOS sul Nodo
+### Installare StartOS sul Nodo
 
 14) Collegare monitor, tastiera, mouse e alimentazione al Nodo ed infine, collagare la chiavetta USB con la ISO di StartOS per il boot
 
@@ -70,6 +75,48 @@ Description here
 
 	![targets](img/screen08.png)
 
-21) Se tutto è andato a buon fine, comparirà questa schermata:
+21) Se tutto è andato a buon fine, comparirà questa schermata. Cliccare su "Start Fresh" e quindi selezionare l'SSD 
 
-	ciao
+	![targets](img/screen10.png)
+	![targets](img/screen11.png)
+
+22) Inserire una password, ri-scriverla per conferma e quindi cliccare su FINISH.
+
+	![targets](img/screen12.png)
+
+23) Attendere l'inizializzazione di StartOS
+
+	![targets](img/screen13.png)
+
+24) Al termine dell'inizializzazione, sarà possibile loggarsi per accedere al proprio nodo
+
+	![targets](img/screen14.png)
+	![targets](img/screen15.png)
+
+25) DESCRIVERE DI PRENDERE L'IP O L'HOST NAME
+
+
+---
+
+# Configurazione StartOS
+### Accesso a StartOS da rete LAN
+
+### Installazione Bitcoin Core
+
+### Installazione electrs
+
+### Installazione Mempool
+
+
+---
+
+# Preparazione del Wallet
+
+
+### Installazione Sparrow Wallet
+
+### Configurazione Sparrow Wallet
+
+### Creazione/Importazione Wallet
+
+### Transare tramite il proprio nodo
