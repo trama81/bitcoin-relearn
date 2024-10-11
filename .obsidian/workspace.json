@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "670130bfdeff7694",
+        "id": "2f304ac2242977d5",
         "type": "tabs",
         "children": [
           {
-            "id": "6b885d6a38a3215b",
+            "id": "56d4a3647b99ff28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md"
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md"
               }
             }
           },
@@ -155,53 +155,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b885d6a38a3215b",
+  "active": "56d4a3647b99ff28",
   "lastOpenFiles": [
-    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen15.png",
-    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen15.png",
-    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Pasted image 20240627144500.png",
-    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Pasted image 20240627144500.png",
-    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen14.png",
-    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen14.png",
-    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Pasted image 20240627144339.png",
-    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Pasted image 20240627144339.png",
-    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen13.png",
-    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen13.png",
-    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen12.png",
-    "public/2_teoria_avanzata/index.xml",
-    "public/1_teoria_base/index.xml",
+    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen17.png",
+    "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen17.png",
+    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen16.png",
+    "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen16.png",
+    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen15.png",
+    "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen15.png",
+    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen14.png",
+    "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen14.png",
+    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen13.png",
+    "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen13.png",
+    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen12.png",
+    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md",
+    "content/1_teoria_base/3_fiscalita/_index.md",
+    "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
+    "content/2_teoria_avanzata/_index.md",
+    "public/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/index.html",
+    "public/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi",
+    "public/1_teoria_base/3_fiscalita",
+    "().md",
+    "content/1_teoria_base/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/src/bitcoin_it.pdf",
+    "content/1_teoria_base/1..md",
+    "public/1_teoria_base/1./index.html",
+    "public/1_teoria_base/1.",
     "public/index.xml",
-    "public/categories/index.xml",
-    "public/categories/index.html",
-    "public/categories",
+    "public/1_teoria_base/index.xml",
     "public/tags/index.xml",
     "public/tags/index.html",
-    "public/tags",
-    "public/3_operativita/1_esperimenti/index.xml",
-    "static.md",
-    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/6_wallet/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/5_transazioni/_index.md",
+    "content/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/_index.md",
+    "static.md",
     "README.md",
     "1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Pasted.md",
     "img/Pasted.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/1_fonti_fondamentali/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/2_crittografia/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/1_avere_indirizzi_anonimi/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/5_wallet/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/4_transazioni/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/3_chiavi_e_indirizzi/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
-    "content/1_teoria_base/3_fiscalita/_index.md",
-    "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
-    "content/1_teoria_base/_index.md",
-    "content/_index.md",
     "content/3_operativita/1_esperimenti/_index.md",
-    "content/3_operativita/_index.md",
-    "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi.md",
-    "content/2_teoria_avanzata/1_entropia/_index.md",
-    "content/2_teoria_avanzata/_index.md",
-    "content/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/_index.md",
-    "content/1_teoria_base/2_privacy_e_sicurezza/_index.md",
-    "content/1_teoria_base/3_sicurezza_informatica/_index.md"
+    "content/3_operativita/_index.md"
   ]
 }

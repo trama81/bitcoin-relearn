@@ -30,18 +30,18 @@
       <description>This is a new content.</description>
     </item>
     <item>
-      <title>Proteggere il proprio PC</title>
+      <title>Proteggersi su internet</title>
       <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</guid>
-      <description>Brief: Questa sezione ti aiuterà a capire cos’è bitcoin e a familiarizzare con le basi del suo funzionamento.&#xA;This is a new content.&#xA;Livello: Prudente CAMBIA IL MOTORE DI RICERCA&#xA;CAMBIA IL WEB BROWSER&#xA;INSTALLA GLI AD BLOCKERS&#xA;UTILIZZA UNA MAIL PRIVATA&#xA;Livello: Scrupoloso SOSTITUISCI WINDOWS CON LINUX&#xA;CRIPTA I FILE IN CLOUD&#xA;UNHOOK YOUTUBE&#xA;USA SOFTWARE OPEN SOURCE&#xA;Livello: Paranoico INSTALLA LIBREBOOT&#xA;SOSTITUISCI ANDROID / IOS</description>
+      <description>Brief: Questa sezione ti aiuterà a capire cos’è bitcoin e a familiarizzare con le basi del suo funzionamento.&#xA;This is a new content.&#xA;Livello: Prudente CAMBIA IL MOTORE DI RICERCA&#xA;Utilizzare un motore di ricerca che non registri e venda i tuoi dati, come per esempio Brave Search, Startpage, DuckDuckGo&#xA;CAMBIA IL WEB BROWSER&#xA;Utilizzare un Web Browser che non monitori le tue attività e che rispetti la tua privacy, come per esempio Brave, Firefox, Chronium</description>
     </item>
     <item>
       <title>Creare il proprio nodo</title>
       <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html</guid>
-      <description>Brief: Questa sezione ti aiuterà a capire cos’è bitcoin e a familiarizzare con le basi del suo funzionamento.&#xA;Description here&#xA;Installazione StartOS Scaricare StartOS Cliccare su questo link&#xA;Clicca sull’ultima release, taggata come “Latest”&#xA;Scorrere in fondo alla pagina e cliccare sul file che termina con “x86_64.iso”</description>
+      <description>Brief: Questa sezione ti aiuterà a capire cos’è bitcoin e a familiarizzare con le basi del suo funzionamento.&#xA;Description here&#xA;Hardware necessario Installazione StartOS Scaricare StartOS Cliccare su questo link&#xA;Clicca sull’ultima release, taggata come “Latest”&#xA;Scorrere in fondo alla pagina e cliccare sul file che termina con “x86_64.iso”</description>
     </item>
   </channel>
 </rss>

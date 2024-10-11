@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chiavi e indirizzi :: My New Hugo Site</title>
+    <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html</link>
+    <description>Brief: Questa sezione ti aiuterà a capire cosa sono le chiavi private, le chiavi pubbliche e che relazione c’è tra di esse.&#xA;Chiavi Chiave privata La chiave privata è un numero casuale, che si può ottenere per esempio lanciando una moneta 256 volte (o con una fonte di entropia o casualità equivalente) e annotando via via le cifre binarie (dove per esempio: testa=1, croce=0).&#xA;Nella pratica, la chiave privata viene generata da un algoritmo detto entropia, che viene alimentato da una sorgente di caos e genera un output mnemonicamente rappresentato da 12 o 24 parole seme, dette seed phrase. La conoscenza dalla seed phrase è l’unico modo per ricostruire la chiave privata.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
