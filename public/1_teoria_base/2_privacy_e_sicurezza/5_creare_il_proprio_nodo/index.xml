@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creare il proprio nodo :: My New Hugo Site</title>
-    <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html</link>
+    <title>Creare il proprio nodo :: Bitcoin Relearn</title>
+    <link>//localhost:44803/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html</link>
     <description>Brief: Questa sezione ti guiderà nella preparazione di un nodo bitcoin personale e a familiarizzare con le basi del suo funzionamento.&#xA;Perchè possedere un nodo privato Operare con Bitcoin tramite un nodo privato ti permette di avere il pieno controllo delle tue transazioni e dei tuoi fondi, proteggendo la tua privacy in modo più efficace rispetto all’uso di servizi di terze parti. Con un nodo privato, non dipendi da intermediari per verificare le transazioni, evitando che i tuoi dati personali vengano tracciati o esposti. Inoltre, contribuisci alla sicurezza e alla decentralizzazione della rete Bitcoin, senza affidarti a piattaforme che potrebbero monitorare o censurare le tue attività. In sintesi, un nodo privato ti offre maggiore autonomia, sicurezza e privacy.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:44803/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
