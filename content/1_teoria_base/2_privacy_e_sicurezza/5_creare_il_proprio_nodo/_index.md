@@ -7,14 +7,31 @@ draft = false
 +++
 
 > [!important] Brief:
-> Questa sezione ti aiuterà a capire cos'è bitcoin e a familiarizzare con le basi del suo funzionamento.
+> Questa sezione ti guiderà nella preparazione di un nodo bitcoin personale e a familiarizzare con le basi del suo funzionamento.
 
+### Perchè possedere un nodo privato
 
-Description here
+Operare con Bitcoin tramite un nodo privato ti permette di avere il pieno controllo delle tue transazioni e dei tuoi fondi, proteggendo la tua privacy in modo più efficace rispetto all'uso di servizi di terze parti. Con un nodo privato, non dipendi da intermediari per verificare le transazioni, evitando che i tuoi dati personali vengano tracciati o esposti. Inoltre, contribuisci alla sicurezza e alla decentralizzazione della rete Bitcoin, senza affidarti a piattaforme che potrebbero monitorare o censurare le tue attività. In sintesi, un nodo privato ti offre maggiore autonomia, sicurezza e privacy.
 
 # Hardware necessario
 
-Inserire qui
+### HP EliteDesk 800 G3
+
+![targets](img/HP_EliteDesk_800_G4_35W_miniPC.png)
+
+- CPU: Intel Core i5 gen6 - 2.4GHz
+- RAM: 16GB DDR4
+- SSD: 1 slot SATA III 2.5'' 6GB/s, 1 slot M.2 NVMe PCIe3.0
+- Power: DC 19.5V 3.33A - 65W
+
+### Acemagic S1 N95
+
+![targets](img/Acemagic_S1_N95_miniPC.png)
+
+- CPU: Intel Alder Lake N95 - 1.7GHz
+- RAM: 16GB DDR4
+- SSD: 1 slot M.2 NVMe PCIe3.0, 1 slot M.2 SATA
+- Power: DC 12V 4A - 48W
 
 
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/3_operativita/1_esperimenti/_index.md",
+                "file": "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/3_operativita/1_esperimenti/_index.md",
+                "file": "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/3_operativita/1_esperimenti/_index.md",
+                "file": "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/3_operativita/1_esperimenti/_index.md"
+                "file": "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md"
               }
             }
           },
@@ -157,6 +157,14 @@
   },
   "active": "56d4a3647b99ff28",
   "lastOpenFiles": [
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Acemagic_S1_N95_miniPC.png",
+    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Acemagic_S1_N95_miniPC.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/HP_EliteDesk_800_G4_35W_miniPC.png",
+    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/HP_EliteDesk_800_G4_35W_miniPC.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Acemagic S1 N95 miniPC.png",
+    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Acemagic S1 N95 miniPC.png",
+    "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/HP EliteDesk 800 G4 35W miniPC.png",
+    "content/3_operativita/1_esperimenti/_index.md",
     "content/3_operativita/_index.md",
     "content/_index.md",
     "content/2_teoria_avanzata/_index.md",
@@ -181,12 +189,6 @@
     "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen17.png",
     "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen16.png",
     "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen16.png",
-    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen15.png",
-    "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen15.png",
-    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen14.png",
-    "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen14.png",
-    "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/img/screen13.png",
-    "public/1_teoria_base/1_conoscere_bitcoin/1.-introduzione/img/screen13.png",
     "public/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/index.html",
     "public/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi",
     "public/1_teoria_base/3_fiscalita",
@@ -200,8 +202,6 @@
     "public/tags/index.xml",
     "public/tags/index.html",
     "static.md",
-    "README.md",
-    "1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/Pasted.md",
-    "img/Pasted.md"
+    "README.md"
   ]
 }
