@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/2_teoria_avanzata/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/2_teoria_avanzata/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/2_teoria_avanzata/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/2_teoria_avanzata/_index.md"
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "56d4a3647b99ff28",
   "lastOpenFiles": [
+    "content/2_teoria_avanzata/_index.md",
     "content/1_teoria_base/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
@@ -183,7 +184,6 @@
     "content/3_operativita/1_esperimenti/_index.md",
     "content/3_operativita/_index.md",
     "content/_index.md",
-    "content/2_teoria_avanzata/_index.md",
     "content/2_teoria_avanzata/1_entropia/_index.md",
     "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
     "content/1_teoria_base/3_fiscalita/_index.md",
