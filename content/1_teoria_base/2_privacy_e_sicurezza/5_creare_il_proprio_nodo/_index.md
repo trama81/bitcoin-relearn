@@ -14,6 +14,8 @@ Description here
 
 # Hardware necessario
 
+Inserire qui
+
 
 ---
 
