@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Teoria Base"
+title = "Concetti di Base"
 weight = 1
 +++
 

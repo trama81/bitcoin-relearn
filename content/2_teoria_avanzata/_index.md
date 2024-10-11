@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Teoria Avanzata"
+title = "Concetti Avanzati"
 weight = 2
 draft = false
 +++
