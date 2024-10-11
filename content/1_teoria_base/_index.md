@@ -1,6 +1,5 @@
 +++
 archetype = "chapter"
-author = 'me'
 title = "Teoria Base"
 weight = 1
 +++
