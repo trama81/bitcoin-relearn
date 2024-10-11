@@ -3,7 +3,7 @@ title = 'Introduzione'
 author = 'me'
 date = 2024-10-05
 weight = 1
-draft = true
+draft = false
 +++
 
 > [!important] Brief:
