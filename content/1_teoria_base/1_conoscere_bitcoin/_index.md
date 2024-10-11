@@ -4,4 +4,4 @@ weight = 1
 draft = false
 +++
 
-This is a new content.
+This is a content.
