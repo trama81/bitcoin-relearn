@@ -7,7 +7,7 @@ weight = 1
 Indice dei contenuti:
 
 - Conoscere Bitcoin
-	- [[content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index|Introduzione]]
+	- [Introduzione][content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md]
 	- Fonti fondamentali
 	- Crittografia
 	- Chiavi e indirizzi
