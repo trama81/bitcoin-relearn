@@ -15,7 +15,10 @@ Operare con Bitcoin tramite un nodo privato ti permette di avere il pieno contro
 
 # Hardware necessario
 
+Acquistare un mini PC per creare il proprio nodo Bitcoin è una scelta vantaggiosa poichè sono compatti, silenziosi e richiedono poca energia, il che li rende ideali per un funzionamento continuo senza incidere troppo sui consumi elettrici.
 ### HP EliteDesk 800 G3
+
+Dispositivi ricondizionati sono facilmente reperibili online. Si consiglia l'acquisto separato di un SSD NVMe PCIe3.0 da almeno 2TB.
 
 ![targets](img/HP_EliteDesk_800_G4_35W_miniPC.png)
 
@@ -25,6 +28,8 @@ Operare con Bitcoin tramite un nodo privato ti permette di avere il pieno contro
 - Power: DC 19.5V 3.33A - 65W
 
 ### Acemagic S1 N95
+
+Facilmente reperibile su Amazon o sul [sito del produttore](https://acemagic.eu/products/s1-minipc). Si consiglia l'acquisto separato di un SSD NVMe PCIe3.0 da almeno 2TB.
 
 ![targets](img/Acemagic_S1_N95_miniPC.png)
 
@@ -118,19 +123,19 @@ Operare con Bitcoin tramite un nodo privato ti permette di avere il pieno contro
 ---
 
 # Configurazione StartOS
+
 ### Accesso a StartOS da rete LAN
 
-### Installazione Bitcoin Core
+### Installazione di Bitcoin Core
 
-### Installazione electrs
+### Installazione di Electrs
 
-### Installazione Mempool
+### Installazione di Mempool
 
 
 ---
 
 # Preparazione del Wallet
-
 
 ### Installazione Sparrow Wallet
 
