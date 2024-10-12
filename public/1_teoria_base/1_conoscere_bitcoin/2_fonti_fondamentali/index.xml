@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fonti fondamentali :: Bitcoin Relearn</title>
-    <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/index.html</link>
+    <link>//localhost:46445/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/index.html</link>
     <description>Brief: Questa sezione ti elenca alcuni libri, corsi e strumenti utili alla comprensione del mondo bitcoin. Se ne suggerisce una fruizione nell’ordine con cui vengono proposti e sulla base delle proprie competenze di partenza.&#xA;Libri IL BITCOIN STANDARD&#xA;Racconta l’evoluzione della moneta nel corso del tempo, dagli albori fino ai giorni nostri; permettendo di comprendere meglio l’economia nel suo insieme (e non limitatamente alla nicchia delle criptovalute) e quindi di capire il perchè sia nato Bitcoin ed il suo valore.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:46445/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
