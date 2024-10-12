@@ -16,7 +16,7 @@ draft = false
 	Racconta l’evoluzione della moneta nel corso del tempo, dagli albori fino ai giorni nostri; permettendo di comprendere meglio l’economia nel suo insieme (e non limitatamente alla nicchia delle criptovalute) e quindi di capire il perchè sia nato Bitcoin ed il suo valore.
 
 
-- [MASTERING BITCOIN](https://github.com/bitcoinbook/bitcoinbook)
+- [MASTERING BITCOIN](src/Mastering_Bitcoin_IT.pdf)
 
 	Racconta come funziona bitcoin e la [blockchain](https://thecryptogateway.it/blockchain/), partendo dalle basi tecniche della crittografia e delle criptovalute e descrivendo nel dettaglio le chiavi pubbliche e private, indirizzi, wallet, come funziona una transazione e cosa la rende sicura su Bitcoin.
 	
