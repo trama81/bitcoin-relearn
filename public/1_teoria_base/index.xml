@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concetti di Base :: Bitcoin Relearn</title>
-    <link>//localhost:46445/1_teoria_base/index.html</link>
-    <description>Indice dei contenuti:&#xA;Conoscere Bitcoin&#xA;Introduzione Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet Privacy e sicurezza&#xA;Avere indirizzi anonimi Impedire la confisca Conservazione delle chiavi Proteggere il proprio PC Creare il proprio nodo Fiscalità&#xA;Dichiarazione dei redditi</description>
+    <link>//localhost:1313/1_teoria_base/index.html</link>
+    <description>Indice dei contenuti:&#xA;Conoscere Bitcoin&#xA;[[content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index|Introduzione]] Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet Privacy e sicurezza&#xA;Avere indirizzi anonimi Impedire la confisca Conservazione delle chiavi Proteggere il proprio PC Creare il proprio nodo Fiscalità&#xA;Dichiarazione dei redditi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:46445/1_teoria_base/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/1_teoria_base/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conoscere Bitcoin</title>
-      <link>//localhost:46445/1_teoria_base/1_conoscere_bitcoin/index.html</link>
+      <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/1_teoria_base/1_conoscere_bitcoin/index.html</guid>
-      <description>Indice dei contenuti:&#xA;Introduzione Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet</description>
+      <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/index.html</guid>
+      <description>Indice dei contenuti:&#xA;[[content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index|Introduzione]] Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet</description>
     </item>
     <item>
       <title>Privacy e sicurezza</title>
-      <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/index.html</link>
+      <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/index.html</link>
       <pubDate>Fri, 04 Oct 2024 15:37:21 +0200</pubDate>
-      <guid>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/index.html</guid>
       <description>Indice dei contenuti:&#xA;Avere indirizzi anonimi Impedire la confisca Conservazione delle chiavi Proteggere il proprio PC Creare il proprio nodo</description>
     </item>
     <item>
       <title>Fiscalità</title>
-      <link>//localhost:46445/1_teoria_base/3_fiscalita/index.html</link>
+      <link>//localhost:1313/1_teoria_base/3_fiscalita/index.html</link>
       <pubDate>Fri, 04 Oct 2024 15:37:21 +0200</pubDate>
-      <guid>//localhost:46445/1_teoria_base/3_fiscalita/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/3_fiscalita/index.html</guid>
       <description>Indice dei contenuti:&#xA;Dichiarazione dei redditi</description>
     </item>
   </channel>
