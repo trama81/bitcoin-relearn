@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md"
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "689b1aac1f878a71",
   "lastOpenFiles": [
+    "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md",
     "Untitled Document",
     "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/src/Mastering_Bitcoin_IT.pdf",
-    "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md",
     "src/Mastering_Bitcoin_IT.md",
     "src",
     "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
@@ -175,7 +175,6 @@
     "public/1_teoria_base/3_fiscalita",
     "content/3_operativita/_index.md",
     "content/_index.md",
-    "public/index.xml",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen15.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen14.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen13.png",
