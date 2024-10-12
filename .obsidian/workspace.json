@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -157,25 +157,33 @@
   },
   "active": "689b1aac1f878a71",
   "lastOpenFiles": [
+    "content/3_operativita/_index.md",
+    "content/3_operativita/1_esperimenti/_index.md",
+    "content/2_teoria_avanzata/_index.md",
+    "content/2_teoria_avanzata/1_entropia/_index.md",
+    "content/1_teoria_base/_index.md",
+    "content/1_teoria_base/3_fiscalita/_index.md",
+    "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
+    "content/1_teoria_base/2_privacy_e_sicurezza/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md",
+    "content/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
     "Untitled Document",
     "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/src/Mastering_Bitcoin_IT.pdf",
     "src/Mastering_Bitcoin_IT.md",
     "src",
     "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/src",
-    "content/3_operativita/1_esperimenti/_index.md",
     "public/3_operativita/1_esperimenti/index.html",
     "public/3_operativita/1_esperimenti",
     "public/2_teoria_avanzata/1_entropia/index.html",
     "public/2_teoria_avanzata/1_entropia",
     "public/1_teoria_base/3_fiscalita/index.html",
     "public/1_teoria_base/3_fiscalita",
-    "content/3_operativita/_index.md",
-    "content/_index.md",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen15.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen14.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen13.png",
@@ -186,19 +194,11 @@
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen08.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen07.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen06.png",
-    "content/1_teoria_base/_index.md",
-    "content/1_teoria_base/3_fiscalita/_index.md",
-    "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
-    "content/2_teoria_avanzata/_index.md",
-    "content/2_teoria_avanzata/1_entropia/_index.md",
-    "content/1_teoria_base/2_privacy_e_sicurezza/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/2_impedire_la_confisca/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/1_avere_indirizzi_anonimi/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/6_wallet/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/5_transazioni/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
     "().md",
     "content/1_teoria_base/1..md",
     "static.md"

@@ -6,4 +6,3 @@ weight = 2
 draft = false
 +++
 
-This is a new content.

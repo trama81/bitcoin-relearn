@@ -3,7 +3,7 @@
   <channel>
     <title>Privacy e sicurezza :: Bitcoin Relearn</title>
     <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/index.html</link>
-    <description>This is a new content.</description>
+    <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
@@ -34,7 +34,7 @@
       <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</guid>
-      <description>Brief: Questa sezione ti aiuterà a capire cos’è bitcoin e a familiarizzare con le basi del suo funzionamento.&#xA;This is a new content.&#xA;Livello: Prudente CAMBIA IL MOTORE DI RICERCA&#xA;Utilizzare un motore di ricerca che non registri e venda i tuoi dati, come per esempio Brave Search, Startpage, DuckDuckGo&#xA;CAMBIA IL WEB BROWSER&#xA;Utilizzare un Web Browser che non monitori le tue attività e che rispetti la tua privacy, come per esempio Brave, Firefox, Chronium</description>
+      <description>Brief: Questa sezione ti aiuterà a riconquistare la tua privacy informatica e a fare scelte maggiormente orientate alla sicurezza tua e dei tuoi dati.&#xA;This is a new content.&#xA;Livello: Prudente CAMBIA IL MOTORE DI RICERCA&#xA;Utilizza un motore di ricerca che non registri e venda i tuoi dati, come per esempio Brave Search, Startpage, DuckDuckGo.&#xA;CAMBIA IL WEB BROWSER&#xA;Utilizza un Web Browser che non monitori le tue attività e che rispetti la tua privacy, come per esempio Brave, Firefox, Chronium.</description>
     </item>
     <item>
       <title>Creare il proprio nodo</title>

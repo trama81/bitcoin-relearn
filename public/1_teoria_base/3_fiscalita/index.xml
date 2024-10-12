@@ -3,7 +3,7 @@
   <channel>
     <title>Fiscalità :: Bitcoin Relearn</title>
     <link>//localhost:46445/1_teoria_base/3_fiscalita/index.html</link>
-    <description>This is a new content.</description>
+    <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>//localhost:46445/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:46445/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/index.html</guid>
-      <description>This is a new content.</description>
+      <description></description>
     </item>
   </channel>
 </rss>
