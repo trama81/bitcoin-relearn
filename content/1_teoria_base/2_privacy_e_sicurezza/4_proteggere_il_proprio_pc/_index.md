@@ -16,11 +16,11 @@ This is a new content.
 
 - CAMBIA IL MOTORE DI RICERCA
 	
-	Utilizzare un motore di ricerca che non registri e venda i tuoi dati, come per esempio [Brave Search](https://search.brave.com/), [Startpage](https://www.startpage.com/), [DuckDuckGo](https://duckduckgo.com/).
+	Utilizza un motore di ricerca che non registri e venda i tuoi dati, come per esempio [Brave Search](https://search.brave.com/), [Startpage](https://www.startpage.com/), [DuckDuckGo](https://duckduckgo.com/).
 
 - CAMBIA IL WEB BROWSER
 
-	Utilizzare un Web Browser che non monitori le tue attività e che rispetti la tua privacy, come per esempio [Brave](https://brave.com/), [Firefox](https://www.mozilla.org/it/firefox/), [Chronium](https://chromium.woolyss.com/download/#windows).
+	Utilizza un Web Browser che non monitori le tue attività e che rispetti la tua privacy, come per esempio [Brave](https://brave.com/), [Firefox](https://www.mozilla.org/it/firefox/), [Chronium](https://chromium.woolyss.com/download/#windows).
 
 - INSTALLA GLI AD BLOCKERS
 
@@ -28,7 +28,7 @@ This is a new content.
 
 - UTILIZZA UNA MAIL PRIVATA
 
-	Utilizzare un account di posta elettronica che non spii il contenuto delle tue comunicazioni, come per esempio [Infomaniak Mail](https://www.infomaniak.com/en/hosting/service-mail) e [Proton Mail](https://account.proton.me/mail/signup?plan=free&ref=mail_plus_intro-mailpricing-2)
+	Utilizza un account di posta elettronica che non spii il contenuto delle tue comunicazioni, come per esempio [Infomaniak Mail](https://www.infomaniak.com/en/hosting/service-mail) e [Proton Mail](https://account.proton.me/mail/signup?plan=free&ref=mail_plus_intro-mailpricing-2)
 
 
 ## Livello: Scrupoloso
@@ -47,13 +47,18 @@ This is a new content.
 
 - USA SOFTWARE OPEN SOURCE
 
-	Quando possibile, sostituire il software proprietario con software open source, come per esempio [LibreOffice](https://www.libreoffice.org/) al posto di Microsoft Office.
+	Quando possibile, sostituisci il software proprietario con software open source, come per esempio [LibreOffice](https://www.libreoffice.org/) al posto di Microsoft Office o [GIMP](https://www.gimp.org/) al posto di Photoshop.
 
 ## Livello: Paranoico
 
 - INSTALLA LIBREBOOT
 
+	Intel Management Engine (IME) è una componente integrata su tutti i microprocessori Intel, che solleva preoccupazioni sulla privacy. Installando [Libreboot](https://libreboot.org/) (o [Coreboot](https://www.coreboot.org/)), puoi rimuovere (o ridurre) IME, ottenendo maggiore controllo sul tuo hardware, migliorando la sicurezza e riducendo il rischio di backdoor.
+
 - SOSTITUISCI ANDROID / IOS
+
+	Valuta l'acquisto di un telefono con hardware aperto e con sistema operativo open source, come per esempio [PinePhone](https://pine64.org/devices/pinephone/); o installa un sistema operativo open source al posto di Android, come per esempio [GrapheneOS](https://grapheneos.org/).
 
 - ELIMINA I SOCIAL E GLI HOME HUB
 
+	Per proteggere la tua privacy online, elimina gli account inutilizzati, abbandona i social media ed evita dispositivi come Google Hub o Alexa. In questo modo limiterai la dispersione di dati sensibili e aumenterai il controllo sulla tua vita digitale.
