@@ -14,7 +14,7 @@ draft = false
 ![targets](img/screen01.png)
 
 Nell'agosto 2008 è stato registrato il dominio [bitcoin.org](https://bitcoin.org/en/) e a novembre, una persona misteriosa e tutt'oggi sconosciuta, ha pubblicato il famoso [Bitcoin Whitepaper](src/bitcoin_it.pdf), firmato da [Satoshi Nakamoto](https://it.wikipedia.org/wiki/Satoshi_Nakamoto). I primi bitcoin sono stati emessi nel gennaio 2009.
-Bitcoin è progettato per consentirti di archiviare, inviare e ricevere denaro senza banche o società di intermediazione, risolvendo definitivamente il [problema della doppia spesa](https://it.wikipedia.org/wiki/Doppia_spesa)in modo diverso: rendendo pubblici tutti i conti e le transazioni, ma senza rivelare dettagli privati ​​come l'anagrafica. 
+Bitcoin è progettato per consentirti di archiviare, inviare e ricevere denaro senza banche o società di intermediazione, risolvendo definitivamente il [problema della doppia spesa](https://it.wikipedia.org/wiki/Doppia_spesa) in modo diverso: rendendo pubblici tutti i conti e le transazioni, ma senza rivelare dettagli privati ​​come l'anagrafica. 
 Risolvere il problema della doppia spesa permette di inviare bitcoin **direttamente** da una persona ad un'altra, senza utilizzare **nessun** soggetto terzo di intermediazione, consentendo transazioni più veloci, economiche e nel rispetto della privacy, poichè le informazioni personali non sono presenti.
 
 
@@ -173,8 +173,8 @@ Bitcoin è rivoluzionario perché ti dà il pieno controllo sul tuo denaro.
 > - Se non sai essere sintetico, rileggi questa sezione
 > - Se non sai cosa scrivere, rileggi questa sezione
 
-*Fonti:
-- *https://21ideas.org/en/*
-- *https://it.wikipedia.org/*
-- *https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf*
+Fonti:
+- _[21ideas](https://21ideas.org/en/)_
+- _[wikipedia](https://it.wikipedia.org/)_
+- [bitcoin paper](https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf)
 
