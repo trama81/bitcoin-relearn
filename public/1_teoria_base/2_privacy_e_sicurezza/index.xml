@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy e sicurezza :: Bitcoin Relearn</title>
-    <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/index.html</link>
+    <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avere indirizzi anonimi</title>
-      <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/1_avere_indirizzi_anonimi/index.html</link>
+      <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/1_avere_indirizzi_anonimi/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/1_avere_indirizzi_anonimi/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/1_avere_indirizzi_anonimi/index.html</guid>
       <description>Premessa: L’acquisto di Bitcoin attraverso un canale tracciabile (con KYC o con metodi di pagamento tracciabili) crea un’associazione indelebile tra la propria identità e l’indirizzo del wallet a cui tali Bitcoin vengono trasferiti.&#xA;Scopo: definire un protocollo per trasferire i propri Bitcoin da degli indirizzi associati alla propria identità a dei nuovi indirizzi anonimi, ottenuti mediante l’inizializzazione di un nuovo wallet.&#xA;Importante: il protocollo non prevede e non protegge il possessore dei Bitcoin, nel caso in cui quest’ultimo decida di non dichiarare i propri Bitcoin all’agenzia delle entrate. L’acquisto ed il possesso anonimi saranno descritti da un altro protocollo specifico.</description>
     </item>
     <item>
       <title>Impedire la confisca</title>
-      <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/2_impedire_la_confisca/index.html</link>
+      <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/2_impedire_la_confisca/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/2_impedire_la_confisca/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/2_impedire_la_confisca/index.html</guid>
       <description>This is a new content.</description>
     </item>
     <item>
       <title>Conservazione delle chiavi</title>
-      <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/index.html</link>
+      <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/3_conservazione_delle_chiavi/index.html</guid>
       <description>This is a new content.</description>
     </item>
     <item>
       <title>Proteggersi su internet</title>
-      <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</link>
+      <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/index.html</guid>
       <description>Brief: Questa sezione ti aiuterà a riconquistare la tua privacy informatica e a fare scelte maggiormente orientate alla sicurezza tua e dei tuoi dati.&#xA;This is a new content.&#xA;Livello: Prudente CAMBIA IL MOTORE DI RICERCA&#xA;Utilizza un motore di ricerca che non registri e venda i tuoi dati, come per esempio Brave Search, Startpage, DuckDuckGo.&#xA;CAMBIA IL WEB BROWSER&#xA;Utilizza un Web Browser che non monitori le tue attività e che rispetti la tua privacy, come per esempio Brave, Firefox, Chronium.</description>
     </item>
     <item>
       <title>Creare il proprio nodo</title>
-      <link>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html</link>
+      <link>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html</guid>
       <description>Brief: Questa sezione ti guiderà nella preparazione di un nodo bitcoin personale e a familiarizzare con le basi del suo funzionamento.&#xA;Perchè possedere un nodo privato Operare con Bitcoin tramite un nodo privato ti permette di avere il pieno controllo delle tue transazioni e dei tuoi fondi, proteggendo la tua privacy in modo più efficace rispetto all’uso di servizi di terze parti. Con un nodo privato, non dipendi da intermediari per verificare le transazioni, evitando che i tuoi dati personali vengano tracciati o esposti. Inoltre, contribuisci alla sicurezza e alla decentralizzazione della rete Bitcoin, senza affidarti a piattaforme che potrebbero monitorare o censurare le tue attività. In sintesi, un nodo privato ti offre maggiore autonomia, sicurezza e privacy.</description>
     </item>
   </channel>

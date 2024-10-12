@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home :: Bitcoin Relearn</title>
-    <link>//localhost:46445/index.html</link>
-    <description></description>
+    <link>//localhost:1313/index.html</link>
+    <description>Questo blog è dedicato a Bitcoin.&#xA;Non è scritto da una persona esperta o da un grande nome del settore, ma da una persona qualunque, proprio come te. Ciò che conta davvero sono i contenuti, i concetti, gli strumenti, ed è proprio ciò che desidero condividere con te.&#xA;Quello che troverai qui non sono conoscenze definitive, ma è ciò che lentamente sto assimilando. Ogni articolo è il risultato di un processo di apprendimento continuo, riproposto in forma sintetica, poichè è il mio modo per assimilare ed ampliare sempre più le conoscenze che via via acquisico.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:46445/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concetti di Base</title>
-      <link>//localhost:46445/1_teoria_base/index.html</link>
+      <link>//localhost:1313/1_teoria_base/index.html</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/1_teoria_base/index.html</guid>
+      <guid>//localhost:1313/1_teoria_base/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Concetti Avanzati</title>
-      <link>//localhost:46445/2_teoria_avanzata/index.html</link>
+      <link>//localhost:1313/2_teoria_avanzata/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/2_teoria_avanzata/index.html</guid>
+      <guid>//localhost:1313/2_teoria_avanzata/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Operatività</title>
-      <link>//localhost:46445/3_operativita/index.html</link>
+      <link>//localhost:1313/3_operativita/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:46445/3_operativita/index.html</guid>
+      <guid>//localhost:1313/3_operativita/index.html</guid>
       <description></description>
     </item>
   </channel>
