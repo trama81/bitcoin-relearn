@@ -41,10 +41,13 @@ This is a new content.
 
 	Se non hai bisogno di dare i tuoi file a qualche azienda di cloud storage, allora tienili semplicemente in locale sul tuo computer. Se però non puoi fare a meno dell'accessibilità che le soluzioni in cloud offrono, assicurati che i file siano criptati, utilizzando per esempio [Cryptomator](https://cryptomator.org/).
 
-- UNHOOK YOUTUBE
+- CONTIENI YOUTUBE
+
+	Guardare un video su YouTube a volte è utile, ma sta diventando sempre più efficace nell'intrattenerci per più tempo del necessario. Una soluzione è quella di disattivare i video correlati installando per esempio l'estensione [Unhook YouTube](https://unhook.app/); oppure bloccare gli shorts installando per esempio l'estensione [Youtube-shorts block](); oppure sostituendo l'app YouTube sul proprio smartphone con [NewPipe](https://newpipe.net/).
 
 - USA SOFTWARE OPEN SOURCE
 
+	Quando possibile, sostituire il software proprietario con software open source, come per esempio [LibreOffice](https://www.libreoffice.org/) al posto di Microsoft Office.
 
 ## Livello: Paranoico
 
@@ -54,4 +57,3 @@ This is a new content.
 
 - ELIMINA I SOCIAL E GLI HOME HUB
 
-- CREA UN SITO WEB PERSONALE
