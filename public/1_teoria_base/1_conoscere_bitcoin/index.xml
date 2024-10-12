@@ -3,7 +3,7 @@
   <channel>
     <title>Conoscere Bitcoin :: Bitcoin Relearn</title>
     <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/index.html</link>
-    <description>Indice dei contenuti:&#xA;[[content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index|Introduzione]] Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet</description>
+    <description>Indice dei contenuti:&#xA;Introduzione Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
@@ -28,27 +28,6 @@
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/3_crittografia/index.html</guid>
       <description>Brief: Questa sezione ti aiuterà a capire cos’è la crittografia e perchè è un concetto fondamentale per bitcoin e per la blockchain.&#xA;Il bitcoin è basato su crittografia: una branca della matematica ampiamente usata in sicurezza informatica, che permette di dimostrare la conoscenza di un segreto (chiave privata) senza doverlo rivelare e di provare l’autenticità dei dati (firma digitale).&#xA;La sicurezza di un sistema crittografico non deve dipendere dal tenere celato l’algoritmo, ma solo dal tenere celata la chiave.</description>
-    </item>
-    <item>
-      <title>Chiavi e indirizzi</title>
-      <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html</link>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html</guid>
-      <description>Brief: Questa sezione ti aiuterà a capire cosa sono le chiavi private, le chiavi pubbliche e che relazione c’è tra di esse.&#xA;Chiavi Chiave privata La chiave privata è un numero casuale, che si può ottenere per esempio lanciando una moneta 256 volte (o con una fonte di entropia o casualità equivalente) e annotando via via le cifre binarie (dove per esempio: testa=1, croce=0).&#xA;Nella pratica, la chiave privata viene generata da un algoritmo detto entropia, che viene alimentato da una sorgente di caos e genera un output mnemonicamente rappresentato da 12 o 24 parole seme, dette seed phrase. La conoscenza dalla seed phrase è l’unico modo per ricostruire la chiave privata.</description>
-    </item>
-    <item>
-      <title>Transazioni</title>
-      <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/5_transazioni/index.html</link>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/5_transazioni/index.html</guid>
-      <description>Le transazioni bitcoin richiedono che una firma digitale (witness) valida sia inclusa nella blockchain, che può essere generata solo con una chiave privata (segreta); quindi, chiunque abbia una copia di quella chiave ha il controllo dei bitcoin.&#xA;C’è una relazione matematica tra la chiave pubblica e quella privata che permette alla chiave privata di essere usata per generare firme sui messaggi. Questa firma può essere validata attraverso la chiave pubblica senza rivelare la chiave privata.</description>
-    </item>
-    <item>
-      <title>Wallet</title>
-      <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/6_wallet/index.html</link>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/6_wallet/index.html</guid>
-      <description>Portafogli In sintesi, i portafogli sono contenitori di chiavi private.&#xA;Più in generale, il portafoglio è un applicazione che funge da interfaccia primaria per l’utente. Il portafoglio controlla l’accesso ai fondi dell’utente, gestendo le chiavi e gli indirizzi, tenendo traccia del bilancio, e creando e firmando le transazioni.&#xA;Un portafoglio bitcoin contiene una raccolta di coppie di chiavi, ognuna composta da una chiave privata e una pubblica. La chiave privata (k) è un numero, di solito scelto a caso. Dalla chiave privata, viene utilizzata la moltiplicazione a curva ellittica, una funzione di crittografia unidirezionale, per generare una chiave pubblica (K). Dalla chiave pubblica (K), viene utilizzata una funzione di hash crittografico unidirezionale per generare un indirizzo bitcoin (A).</description>
     </item>
   </channel>
 </rss>

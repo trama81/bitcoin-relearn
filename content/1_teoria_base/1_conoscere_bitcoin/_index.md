@@ -6,7 +6,7 @@ draft = false
 
 Indice dei contenuti:
 
-- [[content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index|Introduzione]]
+- Introduzione
 - Fonti fondamentali
 - Crittografia
 - Chiavi e indirizzi

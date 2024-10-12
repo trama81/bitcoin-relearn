@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1_teoria_base/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/6_wallet/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1_teoria_base/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/6_wallet/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1_teoria_base/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/6_wallet/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1_teoria_base/_index.md"
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/6_wallet/_index.md"
               }
             }
           },
@@ -170,12 +170,12 @@
   },
   "active": "220845d9b98e0afa",
   "lastOpenFiles": [
-    "[.md",
-    "content/1_teoria_base/_index.md",
-    "content/2_teoria_avanzata/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
-    "content/1_teoria_base/3_fiscalita/_index.md",
+    "content/1_teoria_base/_index.md",
     "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
+    "content/1_teoria_base/3_fiscalita/_index.md",
+    "[.md",
+    "content/2_teoria_avanzata/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/1. Introduzione/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
