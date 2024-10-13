@@ -1,7 +1,7 @@
 +++
 title = 'Crittografia'
 author = 'me'
-date = 2024-10-05
+date = 2024-10-12
 weight = 3
 draft = false
 +++

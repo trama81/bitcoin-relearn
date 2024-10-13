@@ -1,7 +1,7 @@
 +++
 title = 'Fonti fondamentali'
 author = 'me'
-date = 2024-10-05
+date = 2024-10-11
 weight = 2
 draft = false
 +++
