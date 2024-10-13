@@ -78,13 +78,13 @@ Facilmente reperibile su Amazon o sul [sito del produttore](https://acemagic.eu/
 
 14) Collegare monitor, tastiera, mouse e alimentazione al Nodo ed infine, collagare la chiavetta USB con la ISO di StartOS per il boot
 
-15) Accendere il Nodo e, mentre si avvia (fin dai primi istanti dopo averlo acceso) premere ripetutamente il tasto ESC (o il tasto F4, o F8, in funzione dell'hardware utilizzato), fino a quando comparirà la schermata del BIOS
+15) Accendere il Nodo e, mentre si avvia (fin dai primi istanti dopo averlo acceso) premere ripetutamente il tasto <kbd>ESC</kbd> (o il tasto <kbd>F4</kbd>, o <kbd>F8</kbd>, in funzione dell'hardware utilizzato), fino a quando comparirà la schermata del BIOS
 
 	![targets](img/screen04.png)
 
-16)  Utilizzando i tasti freccia della tastiera, selezionare la scheda "Boot" e scorrere fino alla voce "Boot Option #1", quindi premere INVIO e selezionare la chiavetta USB inserita
+16)  Utilizzando i tasti freccia della tastiera, selezionare la scheda "Boot" e scorrere fino alla voce "Boot Option #1", quindi premere <kbd>INVIO</kbd> e selezionare la chiavetta USB inserita
 
-17) Selezionare la scheda "Save & Exit", scorrere su "Save Changes and Exit" e premere INVIO
+17) Selezionare la scheda "Save & Exit", scorrere su "Save Changes and Exit" e premere <kbd>INVIO</kbd>
 
 18) Attendere il riavvio e l'inizializzazione dell'installazione di StartOS, quindi selezionare l'SSD su cui effettuare l'installazione
 
@@ -143,4 +143,18 @@ Facilmente reperibile su Amazon o sul [sito del produttore](https://acemagic.eu/
 
 ### Creazione/Importazione Wallet
 
+### Collegamento del Ledger a Sparrow Wallet
+
+Se ci troviamo in ambiente Linux Mint 22, per poter collegare con successo il Ledger Nano S Plus a Sparrow Wallet è necessario installare dei componenti che non sono inclusi di default nel sistema operativo.
+Aprire il terminale (CTRL+ALT+T) ed inserire i seguenti comandi:
+
+```bash
+wget -q -O - https://raw.githubusercontent.com/LedgerHQ/udev-rules/master/add_udev_rules.sh | sudo bash
+```
+```bash
+sudo add-apt-repository universe
+```
+```bash
+sudo apt install libfuse2
+```
 ### Transare tramite il proprio nodo
