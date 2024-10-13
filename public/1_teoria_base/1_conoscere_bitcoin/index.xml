@@ -6,7 +6,7 @@
     <description>Indice dei contenuti:&#xA;Introduzione Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/1_teoria_base/1_conoscere_bitcoin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduzione</title>
@@ -28,6 +28,13 @@
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/3_crittografia/index.html</guid>
       <description>Brief: Questa sezione ti aiuterà a capire cos’è la crittografia e perchè è un concetto fondamentale per bitcoin e per la blockchain.&#xA;Il bitcoin è basato su crittografia: una branca della matematica ampiamente usata in sicurezza informatica, che permette di dimostrare la conoscenza di un segreto (chiave privata) senza doverlo rivelare e di provare l’autenticità dei dati (firma digitale).&#xA;La sicurezza di un sistema crittografico non deve dipendere dal tenere celato l’algoritmo, ma solo dal tenere celata la chiave.</description>
+    </item>
+    <item>
+      <title>Chiavi e indirizzi</title>
+      <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html</guid>
+      <description>Brief: Questa sezione ti aiuterà a capire cosa sono le chiavi private, le chiavi pubbliche e che relazione c’è tra di esse.&#xA;Con parole semplici Immagina una cassetta delle lettere Per capire questi concetti, immagina di avere una cassetta delle lettere, in cui è presente una fessura di ingresso (chiave pubblica) ed una serratura (chiave privata). Ecco come funziona:&#xA;Chiave pubblica: è la chiave che puoi dare a chiunque, di modo che chiunque possa inserire dei bitocin nella tua cassetta, ma non può aprirla. Chiave privata: è la chiave segreta che solo tu possiedi. Serve per aprire la cassetta e prendere i tuoi bitcoin. Se qualcun altro avesse questa chiave, potrebbe rubare tutto! Come si creano le chiavi? La chiave privata viene generata per prima. È come se tu creassi una password segreta super lunga e complessa. Questa chiave privata è unica e quasi impossibile da indovinare; è così importante che devi custodirla con estrema attenzione. La chiave pubblica è creata a partire dalla chiave privata, grazie a una specie di “trucchetto matematico”. Anche se chiunque può vedere la tua chiave pubblica, non può risalire alla tua chiave privata. E gli indirizzi? Ora, immagina che qualcuno spii quante persone mettono qualcosa nella tua cassetta e veda quanti bitcoin ricevi. Per evitarlo, puoi fornire a ciascuno un indirizzo diverso, come se fossero punti di consegna sparsi ovunque, non riconducibili alla tua cassetta principale. Così, tutto ciò che ricevi sarà sempre tuo, ma nessuno potrà spiarti.</description>
     </item>
   </channel>
 </rss>
