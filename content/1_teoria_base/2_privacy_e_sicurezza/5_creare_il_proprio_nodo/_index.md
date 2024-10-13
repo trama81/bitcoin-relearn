@@ -16,27 +16,33 @@ Operare con Bitcoin tramite un nodo privato ti permette di avere il pieno contro
 # Hardware necessario
 
 Acquistare un mini PC per creare il proprio nodo Bitcoin è una scelta vantaggiosa poichè sono compatti, silenziosi e richiedono poca energia, il che li rende ideali per un funzionamento continuo senza incidere troppo sui consumi elettrici.
+
+Sono qui proposte due soluzioni, che ho personalmente provato e che mi sento di consigliare:
 ### HP EliteDesk 800 G3
 
-Dispositivi ricondizionati sono facilmente reperibili online. Si consiglia l'acquisto separato di un SSD NVMe PCIe3.0 da almeno 2TB.
+Dispositivi ricondizionati sono facilmente reperibili online (Amazon ed Ebay). Si consiglia l'acquisto separato di un SSD NVMe PCIe3.0 da almeno 2TB, che sarà poi da installare all'interno del mini PC.
 
-![targets](img/HP_EliteDesk_800_G4_35W_miniPC.png)
+![targets](img/HP_EliteDesk_800_G4_35W_miniPC.png?classes=left)
 
-- CPU: Intel Core i5 gen6 - 2.4GHz
-- RAM: 16GB DDR4
-- SSD: 1 slot SATA III 2.5'' 6GB/s, 1 slot M.2 NVMe PCIe3.0
-- Power: DC 19.5V 3.33A - 65W
+|       |                                                      |
+| ----- | ---------------------------------------------------- |
+| CPU   | Intel Core i5 gen6 - 2.4GHz                          |
+| RAM   | 16GB DDR4                                            |
+| SSD   | 1 slot SATA III 2.5'' 6GB/s, 1 slot M.2 NVMe PCIe3.0 |
+| Power | DC 19.5V 3.33A - 65W                                 |
 
 ### Acemagic S1 N95
 
-Facilmente reperibile su Amazon o sul [sito del produttore](https://acemagic.eu/products/s1-minipc). Si consiglia l'acquisto separato di un SSD NVMe PCIe3.0 da almeno 2TB.
+Facilmente reperibile su Amazon o sul [sito del produttore](https://acemagic.eu/products/s1-minipc). Si consiglia l'acquisto separato di un SSD NVMe PCIe3.0 da almeno 2TB, che sarà poi da installare all'interno del mini PC.
 
-![targets](img/Acemagic_S1_N95_miniPC.png)
+![targets](img/Acemagic_S1_N95_miniPC.png?classes=left)
 
-- CPU: Intel Alder Lake N95 - 1.7GHz
-- RAM: 16GB DDR4
-- SSD: 1 slot M.2 NVMe PCIe3.0, 1 slot M.2 SATA
-- Power: DC 12V 4A - 48W
+|       |                                          |
+| ----- | ---------------------------------------- |
+| CPU   | Intel Alder Lake N95 - 1.7GHz            |
+| RAM   | 16GB DDR4                                |
+| SSD   | 1 slot M.2 NVMe PCIe3.0, 1 slot M.2 SATA |
+| Power | DC 12V 4A - 48W                          |
 
 
 ---

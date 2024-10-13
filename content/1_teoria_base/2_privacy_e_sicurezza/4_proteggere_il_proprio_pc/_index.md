@@ -12,7 +12,7 @@ draft = false
 
 This is a new content.
 
-## Livello: Prudente
+### Livello: Prudente
 
 - CAMBIA IL MOTORE DI RICERCA
 	
@@ -31,7 +31,7 @@ This is a new content.
 	Utilizza un account di posta elettronica che non spii il contenuto delle tue comunicazioni, come per esempio [Infomaniak Mail](https://www.infomaniak.com/en/hosting/service-mail) e [Proton Mail](https://account.proton.me/mail/signup?plan=free&ref=mail_plus_intro-mailpricing-2)
 
 
-## Livello: Scrupoloso
+### Livello: Scrupoloso
 
 - SOSTITUISCI WINDOWS CON LINUX
 
@@ -49,7 +49,7 @@ This is a new content.
 
 	Quando possibile, sostituisci il software proprietario con software open source, come per esempio [LibreOffice](https://www.libreoffice.org/) al posto di Microsoft Office o [GIMP](https://www.gimp.org/) al posto di Photoshop.
 
-## Livello: Paranoico
+### Livello: Paranoico
 
 - INSTALLA LIBREBOOT
 

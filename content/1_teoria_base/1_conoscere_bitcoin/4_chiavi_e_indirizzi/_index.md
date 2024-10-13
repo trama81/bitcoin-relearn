@@ -7,7 +7,7 @@ draft = false
 +++
 
 > [!important] Brief:
-> Questa sezione ti aiuterà a capire cosa sono le chiavi private, le chiavi pubbliche e che relazione c'è tra di esse.
+> Questa sezione ti aiuterà a capire cosa sono le chiavi private, le chiavi pubbliche, gli indirizzi e che relazioni ci sono tra loro.
 
 > [!TIP]+ Con parole semplici
 > ##### Immagina una cassetta delle lettere
@@ -22,8 +22,6 @@ draft = false
 > Ora, immagina che qualcuno spii quante persone mettono qualcosa nella tua cassetta e veda quanti bitcoin ricevi. Per evitarlo, puoi fornire a ciascuno un indirizzo diverso, come se fossero punti di consegna sparsi ovunque, non riconducibili alla tua cassetta principale. Così, tutto ciò che ricevi sarà sempre tuo, ma nessuno potrà spiarti.
 > ##### Non perdere la chiave privata!
 > Un dettaglio fondamentale: se perdi la tua chiave privata, è come se avessi perso la chiave della tua cassetta per sempre e nessuno potrà più aprirla. Quindi, custodisci la chiave privata con cura, in un luogo sicuro, dove nessun altro può accedervi!
-
-
 
 # Chiavi
 ### Chiave privata
