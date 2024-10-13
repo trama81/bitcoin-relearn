@@ -9,7 +9,7 @@ draft = false
 > [!important] Brief:
 > Questa sezione ti aiuterà a capire cosa sono le chiavi private, le chiavi pubbliche e che relazione c'è tra di esse.
 
-> [!TIP] Con parole semplici
+> [!TIP]+ Con parole semplici
 > ##### Immagina una cassetta delle lettere
 > Per capire questi concetti, immagina di avere una cassetta delle lettere, in cui è presente una fessura di ingresso (chiave pubblica) ed una serratura (chiave privata).
 > Ecco come funziona:
