@@ -3,15 +3,15 @@ archetype = "home"
 title = "Home"
 +++
 
-Questo blog è dedicato a Bitcoin.
+Questo sito è dedicato a Bitcoin.
 
-Non è scritto da una persona esperta o da un grande nome del settore, ma da una persona qualunque, proprio come te. Ciò che conta davvero sono i contenuti, i concetti, gli strumenti, ed è proprio ciò che desidero condividere con te.
+Non è scritto da una persona esperta o da un grande nome del settore, ma da una persona qualunque. Ciò che conta davvero sono i contenuti, i concetti, gli strumenti, ed è proprio questo che desidero condividere con te.
 
-Quello che troverai qui non sono conoscenze definitive, ma è ciò che lentamente sto assimilando. Ogni articolo è il risultato di un processo di apprendimento continuo, riproposto in forma sintetica, poichè è il mio modo per assimilare ed ampliare sempre più le conoscenze che via via acquisico.
+Scrivere di quello che so mi aiuta a riordinare le idee, riuscendo così a focalizzarmi su quello che sento di non sapere e finendo per scoprire ciò di cui ignoravo l’esistenza.
 
-È del tutto normale (e giusto) essere diffidenti nei confronti di qualcosa di nuovo e complesso come Bitcoin. Le informazioni in circolazione possono essere confuse, spesso fuorvianti, e ci si può sentire sopraffatti da varie opinioni contrastanti. Tuttavia, voglio incoraggiarti a non lasciare che questa diffidenza ti impedisca di esplorare. La curiosità è una forza potente, capace di spingerti a mettere in discussione ciò che pensi di sapere e a rivedere le tue credenze.
+Penso sia sano diffidare da qualcosa di nuovo e complesso come Bitcoin. Le informazioni sono spesso confuse, fuorvianti o contraddittorie, il che può farci sentire sopraffatti o, peggio, può ingannarci.
 
-Non avere paura di mettere in discussione i tuoi paradigmi e unisciti a me in questo percorso di scoperta e approfondimento.
+Tuttavia, ti incoraggio a non lasciare che la diffidenza ti impedisca di esplorare, di approfondire e di mettere in discussione le tue convinzioni.
 
 ---
 
