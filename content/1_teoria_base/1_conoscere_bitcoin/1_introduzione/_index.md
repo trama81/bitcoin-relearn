@@ -17,7 +17,6 @@ Nell'agosto 2008 è stato registrato il dominio [bitcoin.org](https://bitcoin.or
 Bitcoin è progettato per consentirti di archiviare, inviare e ricevere denaro senza banche o società di intermediazione, risolvendo definitivamente il [problema della doppia spesa](https://it.wikipedia.org/wiki/Doppia_spesa) in modo diverso: rendendo pubblici tutti i conti e le transazioni, ma senza rivelare dettagli privati ​​come l'anagrafica. 
 Risolvere il problema della doppia spesa permette di inviare bitcoin **direttamente** da una persona ad un'altra, senza utilizzare **nessun** soggetto terzo di intermediazione, consentendo transazioni più veloci, economiche e nel rispetto della privacy, poichè le informazioni personali non sono presenti.
 
-
 ### Perchè Bitcoin è così rivoluzionario
 
 ![targets](img/screen02.png)
