@@ -5,11 +5,11 @@ title = "Home"
 
 Questo sito è dedicato a Bitcoin.
 
-Non è scritto da una persona esperta o da un grande nome del settore, ma da una persona qualunque. Ciò che conta davvero sono i contenuti, i concetti, gli strumenti, ed è proprio questo che desidero condividere con te.
+Non è scritto da un esperto o da un grande nome del settore, ma da una persona qualunque. Ciò che considero importante sono i contenuti, i concetti, gli strumenti, ed è proprio questo che desidero condividere con te.
 
-Scrivere di quello che so mi aiuta a riordinare le idee, riuscendo così a focalizzarmi su quello che sento di non sapere e finendo per scoprire ciò di cui ignoravo l’esistenza.
+Scrivere di quello che so mi aiuta a riordinare le idee, riuscendo così a focalizzarmi su quello che mi rendo conto di non sapere e finendo per scoprire ciò di cui ignoravo l’esistenza.
 
-Penso sia sano diffidare da qualcosa di nuovo e complesso come Bitcoin. Le informazioni sono spesso confuse, fuorvianti o contraddittorie, il che può farci sentire sopraffatti o, peggio, può ingannarci.
+Penso sia sano diffidare di qualcosa di nuovo e complesso come Bitcoin. Le informazioni sono spesso superficiali, fuorvianti, contraddittorie, il che può farci sentire sopraffatti o, peggio, può ingannarci.
 
 Tuttavia, ti incoraggio a non lasciare che la diffidenza ti impedisca di esplorare, di approfondire e di mettere in discussione le tue convinzioni.
 

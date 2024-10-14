@@ -69,61 +69,61 @@ Facilmente reperibile su Amazon o sul [sito del produttore](https://acemagic.eu/
 
 6) Collegare una chiavetta USB al proprio PC
 
-8) Avviare Balena Hetcher
+7) Avviare Balena Hetcher
 
 	![targets](img/screen03.png)
 
-9) Cliccare su "Flash from file" e selezionare il file di StartOS (con estensione .iso) scaricato precedentemente
+8) Cliccare su "Flash from file" e selezionare il file di StartOS (con estensione .iso) scaricato precedentemente
 
-11) Cliccare su "Select target" e selezionare la chiavetta USB (precedentemente collegata al PC)
+9) Cliccare su "Select target" e selezionare la chiavetta USB (precedentemente collegata al PC)
 
-13) Cliccare su "Flash!" e attendere il completamento
+10) Cliccare su "Flash!" e attendere il completamento
 
 
 ### Installare StartOS sul Nodo
 
-14) Collegare monitor, tastiera, mouse e alimentazione al Nodo ed infine, collagare la chiavetta USB con la ISO di StartOS per il boot
+11) Collegare monitor, tastiera, mouse e alimentazione al Nodo ed infine, collagare la chiavetta USB con la ISO di StartOS per il boot
 
-15) Accendere il Nodo e, mentre si avvia (fin dai primi istanti dopo averlo acceso) premere ripetutamente il tasto <kbd>ESC</kbd> (o il tasto <kbd>F4</kbd>, o <kbd>F8</kbd>, in funzione dell'hardware utilizzato), fino a quando comparirà la schermata del BIOS
+12) Accendere il Nodo e, mentre si avvia (fin dai primi istanti dopo averlo acceso) premere ripetutamente il tasto <kbd>ESC</kbd> (o il tasto <kbd>F4</kbd>, o <kbd>F8</kbd>, in funzione dell'hardware utilizzato), fino a quando comparirà la schermata del BIOS
 
 	![targets](img/screen04.png)
 
-16)  Utilizzando i tasti freccia della tastiera, selezionare la scheda "Boot" e scorrere fino alla voce "Boot Option #1", quindi premere <kbd>INVIO</kbd> e selezionare la chiavetta USB inserita
+13)  Utilizzando i tasti freccia della tastiera, selezionare la scheda "Boot" e scorrere fino alla voce "Boot Option #1", quindi premere <kbd>INVIO</kbd> e selezionare la chiavetta USB inserita
 
-17) Selezionare la scheda "Save & Exit", scorrere su "Save Changes and Exit" e premere <kbd>INVIO</kbd>
+14) Selezionare la scheda "Save & Exit", scorrere su "Save Changes and Exit" e premere <kbd>INVIO</kbd>
 
-18) Attendere il riavvio e l'inizializzazione dell'installazione di StartOS, quindi selezionare l'SSD su cui effettuare l'installazione
+15) Attendere il riavvio e l'inizializzazione dell'installazione di StartOS, quindi selezionare l'SSD su cui effettuare l'installazione
 
 	![targets](img/screen05.png)
 
-19) Cliccare su "Install StartOS" e confermare cliccando CONTINUE
+16) Cliccare su "Install StartOS" e confermare cliccando CONTINUE
 
 	![targets](img/screen06.png)
 	![targets](img/screen07.png)
 
-20) Attendere il completamento dell'installazione, quindi rimuovere la chiavetta USB dal Nodo e cliccare su REBOOT
+17) Attendere il completamento dell'installazione, quindi rimuovere la chiavetta USB dal Nodo e cliccare su REBOOT
 
 	![targets](img/screen08.png)
 
-21) Se tutto è andato a buon fine, comparirà questa schermata. Cliccare su "Start Fresh" e quindi selezionare l'SSD 
+18) Se tutto è andato a buon fine, comparirà questa schermata. Cliccare su "Start Fresh" e quindi selezionare l'SSD 
 
 	![targets](img/screen10.png)
 	![targets](img/screen11.png)
 
-22) Inserire una password, ri-scriverla per conferma e quindi cliccare su FINISH.
+19) Inserire una password, ri-scriverla per conferma e quindi cliccare su FINISH.
 
 	![targets](img/screen12.png)
 
-23) Attendere l'inizializzazione di StartOS
+20) Attendere l'inizializzazione di StartOS
 
 	![targets](img/screen13.png)
 
-24) Al termine dell'inizializzazione, sarà possibile loggarsi per accedere al proprio nodo
+21) Al termine dell'inizializzazione, sarà possibile loggarsi per accedere al proprio nodo
 
 	![targets](img/screen14.png)
 	![targets](img/screen15.png)
 
-25) DESCRIVERE DI PRENDERE L'IP O L'HOST NAME
+22) DESCRIVERE DI PRENDERE L'IP O L'HOST NAME
 
 
 ---
