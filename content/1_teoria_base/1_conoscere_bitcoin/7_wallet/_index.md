@@ -2,7 +2,7 @@
 title = 'Wallet'
 author = 'me'
 date = 2024-10-05
-weight = 6
+weight = 7
 draft = true
 +++
 
@@ -15,3 +15,9 @@ Più in generale, il portafoglio è un applicazione che funge da interfaccia pri
 Un portafoglio bitcoin contiene una raccolta di coppie di chiavi, ognuna composta da una chiave privata e una pubblica. La chiave privata (k) è un numero, di solito scelto a caso. Dalla chiave privata, viene utilizzata la moltiplicazione a curva ellittica, una funzione di crittografia unidirezionale, per generare una chiave pubblica (K). Dalla chiave pubblica (K), viene utilizzata una funzione di hash crittografico unidirezionale per generare un indirizzo bitcoin (A).
 
 Il rapporto tra la chiave privata, la chiave pubblica e l’indirizzo bitcoin è mostrato in Figura
+
+
+
+
+
+La chiave privata sarà costudita all’interno del wallet, il quale fornirà anche una copia di backup (sottoforma di *Seed Phrase*) che sarà l’unico elemento con cui si potrà recuperare l’accesso ai fondi qualora il wallet andasse distrutto o rubato.

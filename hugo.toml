@@ -448,7 +448,7 @@ customMathJaxURL = "" # "https://unpkg.com/mathjax/es5/tex-mml-chtml.js"
 # with a reset button for the zoom.
 # This can be overridden in the page's frontmatter or given as a parameter to
 # individual graphs.
-mermaidZoom = true
+mermaidZoom = false
 
 # Initialization options for Mermaid.
 # Default: not set

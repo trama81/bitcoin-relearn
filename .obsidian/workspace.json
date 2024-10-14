@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/3_operativita/2_Detenzione/_index.md",
+                "file": "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "739a3e175e4a972e",
+            "id": "80012ed666bb5699",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,8 +240,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "739a3e175e4a972e",
+  "active": "220845d9b98e0afa",
   "lastOpenFiles": [
+    "content/3_operativita/2_Detenzione/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/7_wallet/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/6_transazioni/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale",
+    "content/1_teoria_base/1_conoscere_bitcoin/5_indirizzi_bitcoin",
     "public/index.xml",
     "public/1_teoria_base/index.xml",
     "public/tags/index.xml",
@@ -250,9 +258,6 @@
     "public/categories/index.xml",
     "public/categories/index.html",
     "public/categories",
-    "public/sitemap.xml",
-    "public/404.html",
-    "public/js/swagger-ui/swagger-ui.css",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen15.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen14.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen13.png",
@@ -264,7 +269,6 @@
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen07.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen06.png",
     "content/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
     "content/_index.md",
     "content/2_teoria_avanzata/3_Mining_e_PoW/_index.md",
     "content/2_teoria_avanzata/2_blockchain/_index.md",
@@ -276,17 +280,13 @@
     "content/1_teoria_base/2_privacy_e_sicurezza/4_proteggere_il_proprio_pc/_index.md",
     "content/3_operativita/_index.md",
     "content/3_operativita/1_Acquisto/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/3_crittografia/_index.md",
     "src/Mastering_Bitcoin_IT.md",
     "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
     "content/1_teoria_base/2_privacy_e_sicurezza/_index.md",
     "README.md",
     "content/1_teoria_base/3_fiscalita/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/5_transazioni/_index.md",
     "themes/hugo-theme-relearn/exampleSite/content/basics/migration/_index.en.md",
-    "content/3_operativita/2_Detenzione/_index.md",
     "content/1_teoria_base/3_fiscalita/1_dichiarazione_dei_redditi/_index.md",
-    "content/3_operativita/4_vendita/_index.md",
-    "content/3_operativita/3_movimentazione/_index.md"
+    "content/3_operativita/4_vendita/_index.md"
   ]
 }
