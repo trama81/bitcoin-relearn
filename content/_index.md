@@ -34,7 +34,14 @@ Indice dei contenuti:
 		- [Creare il proprio nodo](https://trama81.github.io/bitcoin/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/index.html)
 		
 	- Fiscalità
+		- Normative di riferimento
 		- Dichiarazione dei redditi
 	
 - Concetti Avanzati
+	- Crittografia
+
 - Operatività
+	- Acquisto
+	- Movimentazione
+	- Detenzione
+	- Vendita
