@@ -13,9 +13,10 @@ Trovo sia sano diffidare di qualcosa di nuovo e complesso come Bitcoin. Le infor
 
 Tuttavia, ti incoraggio a non lasciare che la diffidenza ti impedisca di esplorare, approfondire e di mettere in discussione le tue convinzioni.
 
+
 ---
 
-Indice dei contenuti:
+# Indice dei contenuti:
 
 - Concetti di Base
 	- Conoscere Bitcoin
@@ -39,6 +40,7 @@ Indice dei contenuti:
 	
 - Concetti Avanzati
 	- Crittografia
+	- Blockchain
 
 - Operatività
 	- Acquisto
