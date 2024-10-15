@@ -8,7 +8,7 @@ draft = true
 
 
 
-La chiave privata è l’elemento crittografico che permette al possessore di bitcoin di spenderlo: viene utilizzata per creare *firme digitali*, dimostrando la proprietà dei fondi in una transazione, che sono necessarie per trasferire i bitcoin.
+La chiave privata è l’elemento crittografico che permette al possessore di bitcoin di spenderlo: viene utilizzata per creare *firme digitali*, dimostrando la proprietà dei fondi in una transazione, che sono necessarie per trasferire i bitcoin..
 
 
 
