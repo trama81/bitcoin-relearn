@@ -1,5 +1,5 @@
 +++
-title = 'Chiavi privata e pubblica'
+title = 'Chiavi e indirizzi'
 author = 'me'
 date = 2024-10-15
 weight = 4

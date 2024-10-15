@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chiavi privata e pubblica :: Bitcoin Relearn</title>
+    <title>Chiavi e indirizzi :: Bitcoin Relearn</title>
     <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html</link>
     <description>Brief: Questa sezione ti aiuterà a capire cosa sono le chiavi private, le chiavi pubbliche, gli indirizzi e che relazioni ci sono tra loro.&#xA;Con parole semplici Immagina una cassetta delle lettere Per capire questi concetti, immagina di avere una cassetta delle lettere, in cui è presente una fessura di ingresso (chiave pubblica) ed una serratura (chiave privata). Ecco come funziona:</description>
     <generator>Hugo</generator>
