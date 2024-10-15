@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -242,8 +242,8 @@
   },
   "active": "220845d9b98e0afa",
   "lastOpenFiles": [
-    "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
     "content/_index.md",
     "content/3_operativita/2_Detenzione/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/7_wallet/_index.md",

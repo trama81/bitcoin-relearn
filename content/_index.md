@@ -11,7 +11,7 @@ Scrivere di quello che so mi aiuta a riordinare le idee, riuscendo così a focal
 
 Trovo sia sano diffidare di qualcosa di nuovo e complesso come Bitcoin. Le informazioni sono spesso superficiali, fuorvianti, contraddittorie, il che può confonderci o, peggio, ingannarci.
 
-Tuttavia, ti incoraggio a non lasciare che la diffidenza ti impedisca di esplorare, approfondire e di mettere in discussione le tue convinzioni.
+Tuttavia, ti incoraggio a non lasciare che la diffidenza ti impedisca di esplorare, di approfondire e di mettere in discussione le tue convinzioni.
 
 
 ---
