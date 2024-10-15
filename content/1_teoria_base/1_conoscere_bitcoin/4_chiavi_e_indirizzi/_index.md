@@ -95,8 +95,56 @@ La chiave pubblica così generata identifica univocamente il beneficiario senza 
 # Indirizzi
 ### Indirizzi bitcoin
 
-L'indirizzo viene calcolato a partire dalla chiave pubblica utilizzando la [*crittografia asimmetrica*](https://trama81.github.io/bitcoin/1_teoria_base/1_conoscere_bitcoin/3_crittografia/index.html), che rende irreversibile questa operazione.
+Gli **indirizzi Bitcoin** sono un elemento cruciale per inviare e ricevere fondi nella rete Bitcoin. Agiscono come un numero di conto, ma in modo decentralizzato e sicuro, permettendo di ricevere bitcoin senza rivelare informazioni sensibili. Esistono diversi tipi di indirizzi Bitcoin, ciascuno con caratteristiche specifiche che si sono evolute nel tempo per migliorare la sicurezza, l’efficienza e l’usabilità della rete. Utilizzare correttamente gli indirizzi e adottare le misure di sicurezza appropriate è essenziale per proteggere i tuoi fondi e la tua privacy.
 
-L’indirizzo bitcoin è quello che appare comunemente in una transazione come il destinatario dei fondi. Nella pratica è però sconsigliato ricevere fondi sempre sullo stesso indirizzo, poichè questo introduce un problema di privacy: poichè la blockchain è pubblica, si può ricercare la chiave pubblica e trovare tutto lo storico delle transazioni, venendo a scoprire il saldo.
+Gli indirizzi Bitcoin vengono generati dalla chiave pubblica, attraverso una funzione di hashing crittografica.
 
-La soluzione a questo problema di privacy viene risolto sempre grazie alla crittografia, che a partire dalla stessa coppia di chiavi (privata e pubblica), è in grado di calcolare in modo deterministico una lista di indirizzi anonimi.
+```mermaid { align="center" zoom="false" }
+---
+title:
+---
+graph LR;
+  A(Chiave pubblica)    --> B(SHA256 & RIPEMD160)
+  B(SHA256 & RIPEMD160) --> |K = 160 bit| C(Hash chiave pubblica)
+```
+
+L'hash della chiave pubblica viene poi compressa in una forma più breve e facile da usare e può essere ulteriormente elaborata in differenti tipologie di indirizzi bitcoin:
+
+```mermaid { align="center" zoom="false" }
+---
+title:
+---
+graph LR;
+A(Hash chiave pubblica) --> B(Base58Check)
+B(Base58Check)          --> |A = 26-35 char| C(Indirizzo bitcoin)
+```
+
+1. **Indirizzi P2PKH (Pay-to-PubKey-Hash)**:
+    
+    - Prefisso: Cominciano con il numero `1`.
+    - Descrizione: Sono il tipo più tradizionale e uno dei primi formati utilizzati nel protocollo Bitcoin.
+    - Caratteristiche: Gli indirizzi P2PKH richiedono che una transazione venga firmata con una chiave privata corrispondente alla chiave pubblica hashata. Questo tipo di indirizzo è ampiamente supportato da tutti i wallet e gli exchange.
+    - Esempio: `1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa`.
+
+2. **Indirizzi P2SH (Pay-to-Script-Hash)**:
+    
+    - Prefisso: Cominciano con il numero `3`.
+    - Descrizione: Introdotti con Bitcoin Improvement Proposal (BIP) 16 nel 2012, gli indirizzi P2SH sono stati creati per permettere l'uso di script Bitcoin più complessi, come portafogli multi-firma o condizioni di spesa personalizzate.
+    - Caratteristiche Piuttosto che verificare direttamente la chiave pubblica, questi indirizzi richiedono l'esecuzione di uno script associato alla transazione, che permette di implementare funzionalità come le transazioni multi-firma.
+    - Esempio: `3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy`.
+
+3. **Indirizzi Bech32 (SegWit)**:
+    
+    - Prefisso: Cominciano con `bc1`.
+    - Descrizione Introdotti nel 2017 con l'aggiornamento SegWit (Segregated Witness), proposto in BIP 173, questi indirizzi sono progettati per migliorare l'efficienza delle transazioni Bitcoin.
+    - Caratteristiche: Gli indirizzi Bech32 riducono il peso delle transazioni, rendendo le commissioni più economiche e migliorando la velocità delle transazioni. Inoltre, migliorano la sicurezza grazie a un formato che riduce il rischio di errori umani nella digitazione degli indirizzi.
+    - Esempio: `bc1qw508d6qejxtdg4y5r3zarvaryvg6kdaj`.
+
+4. **Indirizzi Taproot (Bech32m)**:
+    
+    - Prefisso Cominciano anch'essi con `bc1`, ma differenziabili per il prefisso "bc1p".
+    - Descrizione: Introdotti nel novembre 2021 con l'aggiornamento Taproot, questi indirizzi utilizzano il formato Bech32m, che è un miglioramento delle funzionalità esistenti per supportare nuove tipologie di firme e smart contract.
+    - Caratteristiche: Gli indirizzi Taproot migliorano la privacy e l'efficienza delle transazioni complesse, come quelle multi-firma o che richiedono condizioni specifiche di spesa. Consentono inoltre di raggruppare diverse condizioni in una singola chiave pubblica, riducendo i dati rivelati sulla blockchain.
+    - Esempio: `bc1p4za7ax9zq0gw4s4jr4k8m6q3w0jf6l7c30a`.
+
+Anche se un indirizzo bitcoin è visibile pubblicamente sulla blockchain, non è direttamente collegato ad una persona specifica, il che garantisce un alto grado di anonimato. Tuttavia, se un indirizzo viene riutilizzato frequentemente e collegato ad un'identità, può essere possibile tracciare le transazioni e compromettere la privacy dell'utente. Per questo motivo, è una pratica comune creare nuovi indirizzi per ogni transazione.
