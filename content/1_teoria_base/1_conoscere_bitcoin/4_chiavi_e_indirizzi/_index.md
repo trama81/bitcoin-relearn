@@ -3,7 +3,7 @@ title = 'Chiavi privata e pubblica'
 author = 'me'
 date = 2024-10-15
 weight = 4
-draft = true
+draft = false
 +++
 
 > [!important] Brief:
