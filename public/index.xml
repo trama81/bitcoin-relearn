@@ -6,12 +6,12 @@
     <description>Questo sito è dedicato a Bitcoin.&#xA;Non è scritto da un esperto o da un grande nome del settore, ma da una persona qualunque. Ciò che considero importante sono i contenuti, i concetti, gli strumenti, ed è proprio questo che desidero condividere con te.&#xA;Scrivere di quello che so mi aiuta a riordinare le idee, riuscendo così a focalizzarmi su quello che invece non so e finendo per scoprire ciò di cui ignoravo l’esistenza.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concetti di Base</title>
       <link>//localhost:1313/1_teoria_base/index.html</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/1_teoria_base/index.html</guid>
       <description>Indice dei contenuti:&#xA;Conoscere Bitcoin&#xA;Introduzione Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet Privacy e sicurezza&#xA;Avere indirizzi anonimi Impedire la confisca Conservazione delle chiavi Proteggere il proprio PC Creare il proprio nodo Fiscalità&#xA;Dichiarazione dei redditi</description>
     </item>

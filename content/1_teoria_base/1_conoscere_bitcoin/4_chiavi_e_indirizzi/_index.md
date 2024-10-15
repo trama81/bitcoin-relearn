@@ -1,9 +1,9 @@
 +++
 title = 'Chiavi privata e pubblica'
 author = 'me'
-date = 2024-10-14
+date = 2024-10-15
 weight = 4
-draft = false
+draft = true
 +++
 
 > [!important] Brief:
@@ -36,7 +36,7 @@ title:
 ---
 graph LR;
   A(Entropia)  --> | n = 1158 * 10⁷⁷ | B(Algoritmo SHA256)
-  B(Algoritmo SHA256) --> |256-bit| C(Chiave privata)
+  B(Algoritmo SHA256) --> |n = 256 bit| C(Chiave privata)
 ```
 
 Fonti comuni di entropia includono:
@@ -63,23 +63,32 @@ Alcuni portafogli offrono un ulteriore livello di sicurezza, consentendo di prot
 
 La chiave privata è il cuore del sistema Bitcoin, poiché consente l'accesso ai fondi e l'autorizzazione delle transazioni. Se qualcuno dovesse ottenerla, potrebbe trasferire i tuoi bitcoin senza il tuo consenso, e poiché non esistono meccanismi per recuperare i fondi rubati, la sicurezza dei tuoi bitcoin dipende interamente da quanto bene riesci a proteggere la tua chiave privata. Se la perdi, perdi anche l'accesso ai tuoi bitcoin, poiché non esiste un sistema centralizzato che possa ripristinarla. L'unico modo per recuperarla è tramite la _seed phrase_.
 
-
-
-
-
-
 ### Chiave pubblica
 
-La chiave pubblica viene calcolata a partire dalla chiave privata utilizzando la *crittografia asimmetrica*, che rende irreversibile questa operazione.
+La **chiave pubblica** è un elemento essenziale per garantire la sicurezza e la trasparenza delle transazioni. Si tratta di una stringa alfanumerica generata dalla chiave privata, che consente di ricevere bitcoin e verificare le transazioni senza compromettere la sicurezza dei fondi.
 
-Il proprietario della chiave privata può tranquillamente creare una chiave pubblica e condividerla con chiunque, sapendo che nessuno può invertire la funzione e risalire alla chiave privata.
+Svolge due ruoli principali:
+1) **Ricezione di fondi**: quando qualcuno vuole inviarti bitcoin, entra in gioco la tua chiave pubblica, che viene trasformata in un **indirizzo Bitcoin** da fornire al mittente per semplificare e rendere più sicuro l'invio dei fondi.
+    
+2) **Verifica delle transazioni**: permette di autenticare l'origine dei fondi e di garantire che solo il legittimo proprietario della chiave privata possa autorizzare il movimento dei bitcoin.
 
-In una transazione, la chiave pubblica del beneficiario identifica univocamente il destinatario, senza tuttavia rivelarne l'anagrafica.
+La chiave pubblica viene calcolata a partire dalla chiave privata utilizzando la *crittografia asimmetrica* (moltiplicazione delle curve ellittiche), che rende irreversibile questa operazione.
 
-
+```mermaid { align="center" zoom="false" }
 ---
-#### 5. **Il ruolo della chiave pubblica**
-Una volta generata la chiave privata, viene automaticamente creata anche una **chiave pubblica**, attraverso un processo crittografico chiamato **elliptic curve cryptography** (crittografia a curve ellittiche). La chiave pubblica è derivata dalla chiave privata e può essere condivisa con altri, poiché serve per ricevere i fondi. Tuttavia, la chiave privata deve rimanere segreta, poiché è l'unico modo per accedere ai fondi e autorizzare le transazioni.
+title:
+---
+graph LR;
+  A(Chiave privata)   --> | n = 256 bit | B(Elliptic Curve Multiplication)
+  B(Elliptic curve multiplication) --> | K = k * G | C(Chiave pubblica) 
+```
+dove:
+: k = chiave privata
+: K = chiave pubblica risultante
+: G = punto di generazione della curva ellittica
+
+La chiave pubblica così generata identifica univocamente il beneficiario senza rivelarne l'anagrafica e può essere condivisa con chiunque, sapendo che nessuno può invertire la funzione e risalire alla chiave privata. Se però qualcuno riuscisse a collegare la tua chiave pubblica alla tua identità reale, potrebbe monitorare sulla blockchain tutte le tue transazioni e risalire al tuo saldo associato a quella chiave pubblica, violando la tua privacy. Per questo motivo, è doveroso adottare pratiche di sicurezza aggiuntive, come creare nuovi indirizzi bitcoin per ogni transazione.
+
 
 ---
 
@@ -91,63 +100,3 @@ L'indirizzo viene calcolato a partire dalla chiave pubblica utilizzando la [*cri
 L’indirizzo bitcoin è quello che appare comunemente in una transazione come il destinatario dei fondi. Nella pratica è però sconsigliato ricevere fondi sempre sullo stesso indirizzo, poichè questo introduce un problema di privacy: poichè la blockchain è pubblica, si può ricercare la chiave pubblica e trovare tutto lo storico delle transazioni, venendo a scoprire il saldo.
 
 La soluzione a questo problema di privacy viene risolto sempre grazie alla crittografia, che a partire dalla stessa coppia di chiavi (privata e pubblica), è in grado di calcolare in modo deterministico una lista di indirizzi anonimi.
-
-
----
-
-# 
-
-
-
-
-### Come funziona la firma digitale?
-
-Quando si effettua una transazione in Bitcoin, entra in gioco la **firma digitale**, che è un meccanismo crittografico utilizzato per garantire che il proprietario della chiave privata sia effettivamente colui che sta autorizzando la transazione. La firma digitale è una delle parti più importanti del sistema Bitcoin, perché consente di nascondere la chiave privata senza comprometterne la funzione.
-
-Ecco come funziona il processo:
-1. **Creazione della firma**: Quando invii bitcoin, il software del portafoglio utilizza la tua chiave privata per creare una firma digitale. Questa firma è un insieme di dati che conferma che tu possiedi la chiave privata senza mai rivelarla.
-2. **Verifica della firma**: Una volta creata, la firma digitale viene verificata da altri nodi della rete Bitcoin utilizzando la tua **chiave pubblica**. Questi nodi possono confermare che la firma è stata creata da chi possiede la chiave privata associata alla chiave pubblica, senza che la chiave privata stessa venga esposta. In questo modo, la rete garantisce che solo il proprietario effettivo dei bitcoin possa spenderli, mantenendo al sicuro la chiave privata.
-   
-La firma digitale protegge quindi l'identità del mittente e garantisce che la transazione sia legittima, senza rivelare direttamente la chiave privata. Questo è uno degli aspetti fondamentali che permette a Bitcoin di funzionare in modo sicuro e decentralizzato.
-
-### Perché la chiave privata è fondamentale?
-
-La chiave privata è ciò che ti consente di spendere i tuoi bitcoin. Ogni volta che invii bitcoin a qualcun altro, la chiave privata viene utilizzata per creare la firma digitale, confermando che sei il legittimo proprietario dei fondi. Questo processo, pur essendo invisibile all'utente, è cruciale per mantenere la sicurezza della rete Bitcoin.
-
-Questa versione integra la spiegazione sul funzionamento della firma digitale, chiarendo come la chiave privata rimane nascosta ma allo stesso tempo garantisce la legittimità delle transazioni.
-
-
-### La chiave privata e la firma digitale: Come funzionano nel mondo di Bitcoin
-
-Quando si parla di Bitcoin, uno dei concetti fondamentali da capire è il funzionamento della **chiave privata** e del meccanismo di **firma digitale**. Questi due elementi sono alla base della sicurezza e del controllo delle tue criptovalute. Sebbene il processo possa sembrare complesso, è possibile comprenderlo con un linguaggio semplice che ne chiarisca l’importanza e il funzionamento.
-
-#### Il ruolo della chiave privata nelle transazioni Bitcoin
-
-Ogni volta che invii bitcoin a qualcun altro, la tua chiave privata entra in gioco in modo invisibile ma essenziale. Vediamo come funziona il processo.
-
-1. **Creazione della transazione**: Quando decidi di inviare bitcoin, il software del portafoglio genera una transazione che specifica la quantità di bitcoin da inviare e l’indirizzo del destinatario.
-    
-2. **Firma digitale**: Per autorizzare la transazione, la tua chiave privata viene utilizzata per creare una **firma digitale**. Questo è un processo crittografico che certifica che sei tu il legittimo proprietario dei fondi che stai inviando. La firma digitale agisce come una prova matematica che conferma l’autenticità della transazione senza rivelare la tua chiave privata.
-    
-3. **Invio della transazione**: Una volta firmata, la transazione viene trasmessa alla rete Bitcoin, dove sarà verificata dai nodi (computer che mantengono la rete). I nodi usano la tua **chiave pubblica** (che è collegata matematicamente alla tua chiave privata) per verificare la firma digitale e confermare che è stata creata da chi possiede effettivamente i fondi.
-    
-4. **Verifica della transazione**: La rete può verificare che la firma digitale sia corretta senza mai vedere la tua chiave privata. Questo sistema garantisce la sicurezza delle transazioni e il possesso dei fondi, senza compromettere la segretezza della chiave privata.
-    
-
-Una volta che la rete conferma la validità della firma, la transazione viene inclusa nel blocco successivo della blockchain, e i fondi vengono trasferiti al destinatario.
-
-#### Firma digitale: Come protegge la tua chiave privata
-
-La **firma digitale** è un elemento chiave della sicurezza in Bitcoin, poiché permette di **dimostrare il possesso** dei fondi senza mai rivelare la chiave privata stessa. Questo è possibile grazie alla **crittografia a chiave pubblica**, un sistema in cui la chiave privata e la chiave pubblica sono collegate, ma la chiave privata rimane nascosta.
-
-Vediamo più nel dettaglio come funziona:
-
-- Quando firmi una transazione con la tua chiave privata, il risultato è una firma unica che corrisponde solo a quella specifica transazione.
-- La firma digitale può essere verificata da chiunque utilizzi la tua chiave pubblica, ma solo tu, con la chiave privata, puoi crearla.
-- La firma certifica che la transazione è stata autorizzata dal proprietario dei fondi, ma non rivela alcuna informazione sulla chiave privata, proteggendo così la tua identità e sicurezza.
-
-Questo sistema di firma digitale è il motivo per cui il Bitcoin è così sicuro: anche se la rete verifica le transazioni, nessuno può accedere ai fondi senza la chiave privata.
-
-### Firma digitale: Come protegge la tua chiave privata
-
-La **firma digitale** è un meccanismo crittografico che permette di autorizzare una transazione Bitcoin senza rivelare la tua chiave privata. Il processo di validazione di una transazione coinvolge vari passaggi, ciascuno con input e output specifici. Vediamo un esempio concreto. Supponiamo tu voglia inviare 1 bitcoin a un amico. Il primo passo è creare una transazione che include l'indirizzo del destinatario (l'**input**) e l'ammontare di bitcoin da trasferire. Questa transazione viene poi firmata utilizzando la tua chiave privata. Qui entra in gioco la **funzione hash**, che prende l'intera transazione come input e genera un valore crittografico univoco (l'**output**), una sorta di impronta digitale della transazione. A questo punto, utilizzi la tua chiave privata per creare la **firma digitale** di questo hash, che dimostra che la transazione è stata effettivamente autorizzata dal proprietario dei fondi. Quando invii la transazione firmata alla rete, i nodi Bitcoin prendono la tua **chiave pubblica** come input per verificare la firma. La rete non ha bisogno della tua chiave privata per effettuare questa verifica: usando la chiave pubblica e l’hash della transazione, i nodi possono confermare che la firma corrisponde ai fondi che possiedi senza rivelare la tua chiave privata. Solo se la firma è valida, la transazione viene accettata e inclusa nel prossimo blocco della blockchain. In questo modo, la firma digitale protegge la tua chiave privata garantendo comunque la sicurezza e l'integrità della transazione.
