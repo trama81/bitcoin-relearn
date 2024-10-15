@@ -9,9 +9,6 @@ draft = false
 > [!important] Brief:
 > Questa sezione ti aiuterà a riconquistare la tua privacy informatica e a fare scelte maggiormente orientate alla sicurezza tua e dei tuoi dati.
 
-
-This is a new content.
-
 ### Livello: Prudente
 
 - CAMBIA IL MOTORE DI RICERCA

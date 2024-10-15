@@ -6,7 +6,7 @@
     <description>Indice dei contenuti:&#xA;Introduzione Fonti fondamentali Crittografia Chiavi e indirizzi Transazioni Wallet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/1_teoria_base/1_conoscere_bitcoin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduzione</title>
@@ -30,9 +30,9 @@
       <description>Brief: Questa sezione ti aiuterà a capire cos’è la crittografia e perchè è un concetto fondamentale per bitcoin e per la blockchain.&#xA;Il bitcoin è basato su crittografia: una branca della matematica ampiamente usata in sicurezza informatica, che permette di dimostrare la conoscenza di un segreto (chiave privata) senza doverlo rivelare e di provare l’autenticità dei dati (firma digitale).&#xA;La sicurezza di un sistema crittografico non deve dipendere dal tenere celato l’algoritmo, ma solo dal tenere celata la chiave.</description>
     </item>
     <item>
-      <title>Chiavi privata e pubblica</title>
+      <title>Chiavi e indirizzi</title>
       <link>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html</guid>
       <description>Brief: Questa sezione ti aiuterà a capire cosa sono le chiavi private, le chiavi pubbliche, gli indirizzi e che relazioni ci sono tra loro.&#xA;Con parole semplici Immagina una cassetta delle lettere Per capire questi concetti, immagina di avere una cassetta delle lettere, in cui è presente una fessura di ingresso (chiave pubblica) ed una serratura (chiave privata). Ecco come funziona:</description>
     </item>
