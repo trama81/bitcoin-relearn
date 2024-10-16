@@ -1,0 +1,72 @@
+body {
+  background-image: url('../img/backimage.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Imposta l'altezza totale della viewport */
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: right;
+  background-color: rgba(0, 0, 0, 0.25);
+  padding: 10px 15px; /* Ridotto padding verticale */
+  margin: 0;
+  border-radius: 10px;
+}
+
+.navbar a {
+  color: grey;
+  text-transform: uppercase;
+  margin: 0 15px;
+  text-decoration: none;
+  transition: color 0.3s;
+  font-size: 0.85em;
+}
+
+.navbar a:hover {
+  color: #ffa500;
+}
+
+.navbar a.active {
+  color: #ffa500;
+  cursor: pointer;
+}
+
+.content {
+  text-align: center;
+  color: white;
+  flex: 1; /* Fa sì che la sezione centrale occupi lo spazio rimanente */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.content h1 {
+  font-size: 2.5em;
+}
+
+.content p {
+  font-size: 1.2em;
+  margin-top: 20px;
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  padding: 10px 0; /* Riduce il padding verticale del footer */
+}
+
+.logo {
+  max-width: 50px;
+  margin-bottom: 20px;
+  cursor: pointer; /* Cambia il cursore quando si passa sopra il logo */
+}
+
+.hidden {
+  display: none; /* Classe per nascondere il messaggio */
+}
+

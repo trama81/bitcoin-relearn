@@ -1,117 +1,49 @@
 <!DOCTYPE html>
 <html lang="en" class="h-100" data-bs-theme="dark">
     <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="Home">
-      <meta name="author" content="trama81">
-      <link href="./css/bootstrap.min.css" rel="stylesheet">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Home">
+        <meta name="author" content="trama81">
+        <link href="./css/bootstrap.min.css" rel="stylesheet">
+        <link href="./css/styles.css" rel="stylesheet">
 
-      <title>Bitcoin Relearn</title>
+        <title>Bitcoin Relearn</title>
 
-      <script defer src="https://cloud.umami.is/script.js" data-website-id="ac17d01d-64df-4308-844a-647b605375c1"></script>
-
-      <style>
-        body {
-          background-image: url('./img/backimage.jpg');
-          background-size: cover;
-          background-position: center;
-          background-repeat: no-repeat;
-          display: flex;
-          flex-direction: column;
-          height: 100vh; /* Imposta l'altezza totale della viewport */
-          margin: 0;
-        }
-
-        .navbar {
-          display: flex;
-          justify-content: right;
-          background-color: rgba(0, 0, 0, 0.25);
-          padding: 10px 15px; /* Ridotto padding verticale */
-          margin: 0;
-          border-radius: 10px;
-        }
-
-        .navbar a {
-          color: grey;
-          text-transform: uppercase;
-          margin: 0 15px;
-          text-decoration: none;
-          transition: color 0.3s;
-          font-size: 0.85em;
-        }
-
-        .navbar a:hover {
-          color: #ffa500;
-        }
-
-        .content {
-          text-align: center;
-          color: white;
-          flex: 1; /* Fa sì che la sezione centrale occupi lo spazio rimanente */
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-        }
-
-        .content h1 {
-          font-size: 2.5em;
-        }
-
-        .content p {
-          font-size: 1.2em;
-          margin-top: 20px;
-          font-style: italic;
-        }
-
-        footer {
-          text-align: center;
-          padding: 10px 0; /* Riduce il padding verticale del footer */
-        }
-
-        .logo {
-          max-width: 50px;
-          margin-bottom: 20px;
-          cursor: pointer; /* Cambia il cursore quando si passa sopra il logo */
-        }
-
-        .hidden {
-          display: none; /* Classe per nascondere il messaggio */
-        }
-      </style>
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="ac17d01d-64df-4308-844a-647b605375c1"></script>
     </head>
 
     <body class="d-flex h-100 text-center text-bg-dark">
-      <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
 
-        <header class="mb-auto">
-            <div class="navbar">
-                <a href="about.html">About</a>
-                <a href="mailto:trama@ikmail.com">Contact</a>
-            </div>
-        </header>
+            <header class="mb-auto">
+                <nav class="navbar">
+                    <a href="about.html">About</a>
+                    <a href="mailto:trama@ikmail.com">Contact</a>
+                </nav>
+            </header>
 
-        <main class="px-3">
-          <div>
-            <img src="./img/logo.svg" alt="logo" class="logo" id="logo">
-          </div>
-             
-          <h1>Bitcoin Relearn</h1>
-          <p class="lead hidden" id="coming-soon">Coming Soon</p> <!-- Messaggio nascosto -->
-        </main>
 
-        <footer class="mt-auto text-white-50">
-          <p>preview on <a href="https://trama81.github.io/bitcoin/index.html" class="text-white-50">GitHub</a></p>
-        </footer>
+            <main class="px-3">
+                <div>
+                    <img src="./img/logo.svg" alt="Bitcoin Relearn logo" class="logo" id="logo">
+                </div>
+                <h1>Bitcoin Relearn</h1>
+                <p class="lead hidden" id="coming-soon">Coming Soon</p> <!-- Messaggio nascosto -->
+            </main>
 
-      </div>
 
-      <script>
-        // Funzione per mostrare il messaggio quando il logo viene cliccato
-        document.getElementById('logo').onclick = function() {
-          document.getElementById('coming-soon').classList.toggle('hidden');
-        };
-      </script>
+            <footer class="mt-auto text-white-50">
+                <p>preview on <a href="https://trama81.github.io/bitcoin/index.html" class="text-white-50">GitHub</a></p>
+            </footer>
+        </div>
+
+        <script>
+            // Funzione per mostrare il messaggio quando il logo viene cliccato
+            document.getElementById('logo').addEventListener('click', function() {
+                document.getElementById('coming-soon').classList.toggle('hidden');
+            });
+        </script>
     </body>
 </html>
 
