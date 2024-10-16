@@ -17,54 +17,61 @@
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
-        }
-
-        .hidden {
-          display: none; /* Classe per nascondere il messaggio */
+          display: flex;
+          flex-direction: column;
+          height: 100vh; /* Imposta l'altezza totale della viewport */
+          margin: 0;
         }
 
         .navbar {
           display: flex;
           justify-content: right;
-          background-color: rgba(0, 0, 0, 0.25); /* Sfondo semitrasparente */
-          padding: 10px;
-          margin-bottom: 20px; /* Spazio sotto la navbar */
-          border-radius: 10px; /* Angoli stondati */
+          background-color: rgba(0, 0, 0, 0.25);
+          padding: 10px 15px; /* Ridotto padding verticale */
+          margin: 0;
+          border-radius: 10px;
         }
 
         .navbar a {
-          color: grey; /* Colore del testo */
-          text-transform: uppercase; /* Maiuscoletto */
-          margin: 0 15px; /* Spaziatura laterale */
-          text-decoration: none; /* Rimuove la sottolineatura */
-          transition: color 0.3s; /* Transizione per l'effetto hover */
-          font-size: 0.85em; /* Dimensione del carattere leggermente più piccola */
+          color: grey;
+          text-transform: uppercase;
+          margin: 0 15px;
+          text-decoration: none;
+          transition: color 0.3s;
+          font-size: 0.85em;
         }
 
         .navbar a:hover {
-          color: #ffa500; /* Colore al passaggio del mouse */
+          color: #ffa500;
         }
 
-        /* Stile per il link "About" sempre attivo */
         .navbar a.active {
-          color: #ffa500; /* Colore arancione per il link attivo */
-          cursor: pointer; /* Cambia il cursore quando si passa sopra il logo */
+          color: #ffa500;
+          cursor: pointer;
         }
 
         .content {
-          text-align: center; /* Centra il testo */
-          color: white; /* Colore del testo */
-          margin-top: 50px; /* Spazio sopra il contenuto */
+          text-align: center;
+          color: white;
+          flex: 1; /* Fa sì che la sezione centrale occupi lo spazio rimanente */
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
         }
 
         .content h1 {
-          font-size: 2.5em; /* Dimensione del testo della prima frase */
+          font-size: 2.5em;
         }
 
         .content p {
-          font-size: 1.2em; /* Dimensione del testo della seconda frase */
-          margin-top: 20px; /* Spazio sopra la seconda frase */
-          font-style: italic; /* Stile corsivo per la seconda frase */
+          font-size: 1.2em;
+          margin-top: 20px;
+          font-style: italic;
+        }
+
+        footer {
+          text-align: center;
+          padding: 10px 0; /* Riduce il padding verticale del footer */
         }
       </style>
     </head>

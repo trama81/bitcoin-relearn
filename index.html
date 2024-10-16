@@ -3,7 +3,7 @@
     <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="Coming Soon">
+      <meta name="description" content="Home">
       <meta name="author" content="trama81">
       <link href="./css/bootstrap.min.css" rel="stylesheet">
 
@@ -17,6 +17,56 @@
           background-size: cover;
           background-position: center;
           background-repeat: no-repeat;
+          display: flex;
+          flex-direction: column;
+          height: 100vh; /* Imposta l'altezza totale della viewport */
+          margin: 0;
+        }
+
+        .navbar {
+          display: flex;
+          justify-content: right;
+          background-color: rgba(0, 0, 0, 0.25);
+          padding: 10px 15px; /* Ridotto padding verticale */
+          margin: 0;
+          border-radius: 10px;
+        }
+
+        .navbar a {
+          color: grey;
+          text-transform: uppercase;
+          margin: 0 15px;
+          text-decoration: none;
+          transition: color 0.3s;
+          font-size: 0.85em;
+        }
+
+        .navbar a:hover {
+          color: #ffa500;
+        }
+
+        .content {
+          text-align: center;
+          color: white;
+          flex: 1; /* Fa sì che la sezione centrale occupi lo spazio rimanente */
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+
+        .content h1 {
+          font-size: 2.5em;
+        }
+
+        .content p {
+          font-size: 1.2em;
+          margin-top: 20px;
+          font-style: italic;
+        }
+
+        footer {
+          text-align: center;
+          padding: 10px 0; /* Riduce il padding verticale del footer */
         }
 
         .logo {
@@ -27,28 +77,6 @@
 
         .hidden {
           display: none; /* Classe per nascondere il messaggio */
-        }
-
-        .navbar {
-          display: flex;
-          justify-content: right;
-          background-color: rgba(0, 0, 0, 0.25); /* Sfondo semitrasparente */
-          padding: 10px;
-          margin-bottom: 20px; /* Spazio sotto la navbar */
-          border-radius: 10px; /* Angoli stondati */
-        }
-
-        .navbar a {
-          color: grey; /* Colore del testo */
-          text-transform: uppercase; /* Maiuscoletto */
-          margin: 0 15px; /* Spaziatura laterale */
-          text-decoration: none; /* Rimuove la sottolineatura */
-          transition: color 0.3s; /* Transizione per l'effetto hover */
-          font-size: 0.85em; /* Dimensione del carattere leggermente più piccola */
-        }
-
-        .navbar a:hover {
-          color: #ffa500; /* Colore al passaggio del mouse */
         }
       </style>
     </head>
