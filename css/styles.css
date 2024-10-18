@@ -17,6 +17,7 @@ body {
 
 header, footer {
   flex: 0; /* Occupare solo lo spazio essenziale */
+  color: grey; /* Colore del testo */
 }
 
 main {
