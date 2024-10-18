@@ -55,13 +55,8 @@ main {
   cursor: pointer;
 }
 
-.logo-header {
-  max-height: 30px; /* Dimensione massima del logo */
-  object-fit: contain; /* Mantiene le proporzioni del logo */
-}
-
 .logo {
-  max-width: 30px;
+  max-width: 50px;
   margin-bottom: 20px;
   cursor: pointer;
 }
