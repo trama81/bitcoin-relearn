@@ -4,15 +4,10 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
+  flex: 1; /* Permette al contenitore di occupare tutto lo spazio disponibile */
   flex-direction: column;
   height: 100vh;
   margin: 0;
-}
-
-.cover-container {
-  display: flex;
-  flex-direction: column; /* Per assicurare che i figli siano disposti in colonna */
-  flex: 1; /* Permette al contenitore di occupare tutto lo spazio disponibile */
 }
 
 header {
