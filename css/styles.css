@@ -5,26 +5,45 @@ body {
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
-  height: 100vh; /* Imposta l'altezza totale della viewport */
+  height: 100vh;
   margin: 0;
+}
+
+.cover-container {
+  display: flex;
+  flex-direction: column; /* Per assicurare che i figli siano disposti in colonna */
+  flex: 1; /* Permette al contenitore di occupare tutto lo spazio disponibile */
+}
+
+header, footer {
+  flex: 0; /* Occupare solo lo spazio essenziale */
+}
+
+main {
+  flex: 1; /* Occupare tutto lo spazio rimanente */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centra verticalmente il contenuto */
+  text-align: center; /* Allinea il testo al centro */
+  color: white; /* Colore del testo */
 }
 
 .navbar {
   display: flex;
-  justify-content: right;
+  justify-content: space-between; /* Lo spazio tra il logo e i link */
+  align-items: center; /* Centra verticalmente */
   background-color: rgba(0, 0, 0, 0.25);
-  padding: 10px 15px; /* Ridotto padding verticale */
-  margin: 0;
+  padding: 10px 10px;
   border-radius: 10px;
 }
 
 .navbar a {
   color: grey;
   text-transform: uppercase;
-  margin: 0 15px;
   text-decoration: none;
   transition: color 0.3s;
   font-size: 0.85em;
+  margin: 0 15px;
 }
 
 .navbar a:hover {
@@ -36,37 +55,24 @@ body {
   cursor: pointer;
 }
 
-.content {
-  text-align: center;
-  color: white;
-  flex: 1; /* Fa sì che la sezione centrale occupi lo spazio rimanente */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.content h1 {
-  font-size: 2.5em;
-}
-
-.content p {
-  font-size: 1.2em;
-  margin-top: 20px;
-  font-style: italic;
-}
-
-footer {
-  text-align: center;
-  padding: 10px 0; /* Riduce il padding verticale del footer */
+.logo-header {
+  max-height: 30px; /* Dimensione massima del logo */
+  object-fit: contain; /* Mantiene le proporzioni del logo */
 }
 
 .logo {
   max-width: 50px;
   margin-bottom: 20px;
-  cursor: pointer; /* Cambia il cursore quando si passa sopra il logo */
+  cursor: pointer;
 }
 
 .hidden {
-  display: none; /* Classe per nascondere il messaggio */
+  display: none;
+}
+
+.about p {
+  font-size: 1.2em;
+  margin-top: 20px;
+  font-style: italic;
 }
 
