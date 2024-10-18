@@ -14,13 +14,6 @@ header {
   flex: 0; /* Occupare solo lo spazio essenziale */
 }
 
-footer {
-  flex: 0; /* Occupare solo lo spazio essenziale */
-  text-align: center;
-  padding: 0 0;
-  margin: 0; /* Assicurati che non ci siano margini */
-}
-
 main {
   flex: 1; /* Occupare tutto lo spazio rimanente */
   display: flex;
@@ -28,6 +21,13 @@ main {
   justify-content: center; /* Centra verticalmente il contenuto */
   text-align: center; /* Allinea il testo al centro */
   color: white; /* Colore del testo */
+}
+
+footer {
+  flex: 0; /* Occupare solo lo spazio essenziale */
+  text-align: center;
+  padding: 0 0;
+  margin: 0; /* Assicurati che non ci siano margini */
 }
 
 .navbar {
@@ -74,12 +74,12 @@ main {
   cursor: pointer;
 }
 
-.hidden {
-  display: none;
-}
-
 .content h1 {
   font-size: 2.5em;
+}
+
+.hidden {
+  display: none;
 }
 
 .about p {
