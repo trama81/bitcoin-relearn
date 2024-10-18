@@ -3,12 +3,12 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="About">
+        <meta name="description" content="Home">
         <meta name="author" content="trama81">
         <link href="./css/bootstrap.min.css" rel="stylesheet">
         <link href="./css/styles.css" rel="stylesheet">
 
-        <title>Bitcoin Relearn - About</title>
+        <title>Bitcoin Relearn</title>
 
         <script defer src="https://cloud.umami.is/script.js" data-website-id="ac17d01d-64df-4308-844a-647b605375c1"></script>
     </head>
@@ -22,7 +22,7 @@
                         <img src="./img/logo-header.svg" alt="Bitcoin Relearn logo">
                     </a>
                     <div class="ms-auto">
-                        <a href="about.html" class="active">About</a>
+                        <a class="active" href="about.html">About</a>
                         <a href="mailto:trama@ikmail.com">Contact</a>
                     </div>
                 </nav>
@@ -36,13 +36,18 @@
                 <p class="lead">Non lascio che la diffidenza mi impedisca di esplorare,<br />
                           di approfondire e di mettere in discussione le mie convinzioni.</p> 
             </main>
-
-            <footer class="mt-auto">
+            <!-- footer -->
+            <footer class="mt-auto text-white-50">
                 <p>preview on <a href="https://trama81.github.io/bitcoin/index.html" class="text-white-50">GitHub</a></p>
             </footer>
-
         </div>
+
+        <script>
+            // Funzione per mostrare il messaggio quando il logo viene cliccato
+            document.getElementById('logo').addEventListener('click', function() {
+                document.getElementById('coming-soon').classList.toggle('hidden');
+            });
+        </script>
     </body>
 </html>
-
 
